@@ -1,0 +1,468 @@
+﻿rank,college,city_state,overall,outcome,resources,engagement,environment,right_choice,salary,default_rate,class
+1,Harvard University,"Cambridge, MA",91.9,39.5,29.8,15.6,7,9.09,91000,0.9,Private
+2,Columbia University,"New York, NY",90.6,39,27,16.1,7.8,8.06,74000,1.4,Private
+3,Massachusetts Institute of Technology,"Cambridge, MA",90.4,38.2,29.2,15.8,7.2,9.11,90000,1.1,Private
+3,Stanford University,"Stanford, CA",90.4,38.9,26.2,17.4,7.9,8.96,83000,0.8,Private
+5,Duke University,"Durham, NC",90.2,39.5,26.7,17.2,6.8,9.19,77000,0.4,Private
+6,Yale University,"New Haven, CT",90,39.3,26.8,16.9,7.2,8.74,70000,0.6,Private
+7,California Institute of Technology,"Pasadena, CA",89.8,38.8,30,14.6,6.4,8.35,76000,1.9,Private
+8,University of Pennsylvania,"Philadelphia, PA",89.6,38.4,27,17.3,6.9,7.99,79000,1.5,Private
+9,Princeton University,"Princeton, NJ",89.5,39.1,28.1,15.6,6.8,8.66,76000,1,Private
+10,Cornell University,"Ithaca, NY",88.9,38.1,26.8,17.5,6.6,8.73,72000,0.7,Private
+11,University of Chicago,"Chicago, IL",87.5,38.2,26.9,15.5,6.8,8.6,63000,1,Private
+11,Brown University,"Providence, RI",87.5,36.1,26.8,17.1,7,9.17,60000,1.7,Private
+11,Washington University in St Louis,"Saint Louis, MO",87.5,37.6,26.2,17.6,6.2,8.65,63000,0.8,Private
+14,Rice University,"Houston, TX",87.4,36.3,27.2,17.1,6.8,8.59,62000,0.4,Private
+15,Northwestern University,"Evanston, IL",87.3,36.6,27.2,17.2,6.2,8.38,64000,1.3,Private
+15,University of Southern California,"Los Angeles, CA",87.3,36.5,25.4,17.6,7.7,8.75,67000,1.8,Private
+17,Johns Hopkins University,"Baltimore, MD",86.8,37.7,25.7,16.2,7.1,8.49,68000,1.1,Private
+17,Dartmouth College,"Hanover, NH",86.8,37,26.6,17.3,5.9,9.05,67000,0.9,Private
+19,Emory University,"Atlanta, GA",86.4,36.2,26,16.6,7.6,7.92,59000,1.5,Private
+20,Carnegie Mellon University,"Pittsburgh, PA",86.1,36.2,25.4,17.3,6.7,7.99,74000,0.6,Private
+21,Vanderbilt University,"Nashville, TN",85.3,37.4,25.5,17.4,5,8.91,61000,1.2,Private
+22,Williams College,"Williamstown, MA",85,38.2,24.5,15.8,6.6,8.24,56000,1.8,Private
+23,Amherst College,"Amherst, MA",84.4,37.5,24.1,15.4,7.4,7.97,57000,2.4,Private
+24,University of Notre Dame,Notre Dame IN,83.1,37,24.4,17.1,4.6,8.68,70000,0.4,Private
+25,"University of California, Los Angeles","Los Angeles, CA",82.2,36.1,19.8,16.9,8.8,8.83,59000,2,Public
+26,Pomona College,"Claremont, CA",82.1,33.1,24.9,16.3,7.8,8.63,52000,1.8,Private
+27,University of Michigan-Ann Arbor,"Ann Arbor, Ml",81.8,37.6,21,17.3,6,8.75,58000,1.3,Public
+28,Wellesley College,"Wellesley, MA",81.1,33,24.3,16.6,7.1,8.59,57000,1.8,Private
+29,New York University,"New York, NY",81,32.8,23.4,17.1,7.7,8.58,59000,1.9,Private
+30,Swarthmore College,"Swarthmore, PA",80.9,32.2,24.2,17.3,7.2,7.76,49000,0,Private
+31,Georgetown University,"Washington, DC",80.8,35.3,23.1,16.1,6.3,8.61,84000,0.8,Private
+32,Tufts University,"Medford, MA",80.6,32.5,25.8,16.4,5.9,8.03,66000,1,Private
+33,University of North Carolina at Chapel Hill,"Chapel Hill, NC",80.2,37.6,20.7,16.5,5.3,8.25,51000,1.5,Public
+34,Case Western Reserve University,"Cleveland, OH",79.6,32.6,24.2,16.5,6.3,7.97,68000,1.2,Private
+35,Claremont rVicKenria College,"Claremont, CA",79.5,31.3,24.8,16.7,6.7,7.98,65000,0,Private
+36,Middlebury College,"Middlebury, VT",79,33.9,23.7,16.5,4.8,7.98,54000,1.5,Private
+37,Smith College,"Northampton, MA",78.9,31.5,23.7,16.9,6.9,8.05,44000,0.9,Private
+38,Carleton College,"Northfield, MN",78.6,32.6,23.3,16.8,6,8.18,48000,1,Private
+39,Bowdoin College,"Bnurkswick, ME",78.4,33.1,23.7,16.8,4.8,9.02,55000,1.3,Private
+40,"University of California, Berkeley","Berkeley, CA",78.2,34.6,18.6,16.6,8.4,8.36,62000,2,Public
+40,Boston University,"Boston, MA",78.2,33.6,21.3,16.9,6.4,7.72,60000,1.5,Private
+42,Haverford College,"Haverford, PA",78,32,24.5,16,5.6,8.28,56000,3.3,Private
+43,Purdue University West Lafayette,"West Lafayette, IN",77.1,34,20.2,17.1,5.7,8.09,53000,2.8,Public
+44,University of Miami,"Coral Gables, FL",77,30.5,21.7,17.2,7.7,7.6,53000,2,Private
+45,Wesleyan University,"Middletown, CT",76.9,30.5,23.8,16,6.5,8.48,50000,1.6,Private
+46,"University of California, Davis",Davis.. CA,76.8,33.2,18.1,17,8.4,8.28,57000,2.6,Public
+47,"University of California, San Diego","La Jolla, CA",76.1,34.1,17.8,15.5,8.7,7.27,59000,2,Public
+48,University of Illinois at Urbana-Champaign,"Champaign, IL",75.8,35.9,15.5,17.1,7.4,8.42,57000,1.8,Public
+49,Bryn Mawr College,"Bryn Mawr, PA",75.5,28.3,24.2,15.6,7.3,8.2,52000,1.7,Private
+50,Lehigh University,"Bethlehem, PA",75.4,29.5,23.5,16.9,5.5,8.2,77000,1,Private
+51,University of Rochester,"Rochester, NY",74.6,28,24.2,16.5,5.8,7.8,56000,1.2,Private
+52,Wake Forest University,Winston-Salem NC,74.5,30.8,21,16.1,4.5,8,60000,1.2,Private
+53,Georgia Institute of Technology,"Atlanta, GA",74.2,35.8,15.6,15.6,7.1,8.32,74000,2.1,Public
+54,Davidson College,"Davidson, NC",74,31.4,22.2,15.7,4.7,8.54,55000,2.3,Private
+55,Colgate University,"Hamilton, NY",73.9,29.2,23.4,15.9,5.3,7.65,61000,1,Private
+56,University of Texas at Austin,"Austin, TX",73.8,33.2,16.5,17.4,6.6,8.99,53000,3.3,Public
+56,University of Virginia,"Charlottesville, VA",73.8,35.1,17.7,16,5,8.64,59000,0.9,Public
+58,University of Florida,"Gainesville, FL",73.6,35.5,14.8,17,6.4,8.39,51000,2.1,Public
+59,Bucknell University,"Lewisburg, PA",73.3,30.2,22.6,16.7,3.7,8.21,69000,2.2,Private
+60,Boston College,Chestnut Hill„ MA,73.1,34.8,18,15.7,4.7,7.38,67000,1.2,Private
+61,Hamilton College,"Clinton, NY",73,29,23,16.6,4.4,8.47,56000,0.5,Private
+61,University of Richmond,"University of Richmond, VA",73,27.4,23.4,17.1,5,8.51,60000,2.1,Private
+63,Oberlin College,"Oberlin, OH",72.9,29.3,23,15.7,4.9,8.37,39000,1.4,Private
+64,George Washington University,"Washington, DC",72.7,29.3,21,16.1,6.4,7.34,65000,1.4,Private
+65,Colby College,"Waterville, ME",72.4,28.9,22.4,16.1,5,7.84,53000,2.6,Private
+66,Northeastern University,"Boston, MA",72.2,30.1,18.7,17.4,6,8.6,61000,1.9,Private
+66,Bates College,"Lewiston, M E",72.2,28.8,22.6,16.1,4.7,7.89,53000,2.3,Private
+66,Vassar College,"Poughkeepsie, NY",72.2,26.2,23.4,16,6.6,8.12,48000,0.3,Private
+69,Ohio State University,"Columbus, OH",72.1,33.5,16.2,17.2,5.3,8.46,43000,5,Public
+70,Lafayette College,"Easton, PA",72,29.9,22.6,15.8,3.7,8.22,69000,0.9,Private
+71,University of Wisconsin-Madison,"Madison, WI",71.8,34.4,15.9,17.2,4.2,8.66,51000,1.2,Public
+71,Tulane University,New Orleans.. LA,71.8,25.8,24.6,16.8,4.6,8.61,53000,5.1,Private
+73,Washington and Lee University,"Lexington, VA",71.4,29.5,23.6,15.6,2.6,8.4,75000,1.1,Private
+74,Barnard College,New York NY,71.3,27.5,20.8,16.1,6.9,8.13,57000,0.7,Private
+75,Grinnell College,"Grinnell, IA",71,26.1,23.2,15.2,6.4,8.14,44000,3.5,Private
+75,University of Pittsburgh-Pittsburgh campus,"Pittsburgh, PA",71,31.4,18.4,16.5,4.7,7.91,48000,3.8,Public
+77,Mount Holyoke College,"South Hadley, MA",70.9,25.4,22.1,16.4,7,8.65,44000,2.1,Private
+78,Macalester College,"Saint Paul, MN",70.8,27.3,22.1,15.8,5.6,8.05,46000,0.3,Private
+79,Trinity University,"San Antonio, TX",70.6,24.8,22.5,17,6.3,7.58,54000,1.8,Private
+80,Michigan State University,"East Lansing, MI",70.5,31.6,15.8,17.3,5.8,8.62,50000,3.6,Public
+81,Southern Methodist University,"Dallas, TX",70.4,27.1,20.7,17.1,5.6,8.29,53000,2.9,Private
+82,"University of Maryland, College Park","College Park, MD",70.3,34,13.1,16.7,6.5,7.85,60000,2.1,Public
+83,Worcester Polytechnic Institute,"Worcester, MA",70.2,28.6,20,16.3,5.3,8.84,79000,1.9,Private
+84,Denison University,"Granville, OH",70,26.7,21.6,16.2,5.5,8.17,49000,1.3,Private
+84,Drexel University,"Philadelphia, PA",70,25.7,20.3,17,6.9,8.54,62000,3.1,Private
+84,College of the Holy Cross,"Worcester, MA",70,29.3,21.3,15.8,3.6,9.15,63000,0.5,Private
+87,Rensselaer Polytechnic Institute,"Troy, NY",69.9,29.5,18.8,15,6.6,7.22,81000,0.9,Private
+87,Brandeis University,"Waltham, MA",69.9,26.4,21.8,15.7,5.9,7.89,58000,1.5,Private
+89,Franklin & Marshall College,"Lancaster, PA",69.6,27.5,22.3,15.3,4.4,7.54,54000,2.2,Private
+89,University of Washington-Seattle,"Seattle, WA",69.6,27.9,17.6,16.7,7.4,7.97,53000,2.6,Public
+91,Occidental College,"Los Angeles, CA",69.5,27.3,20.4,14.9,6.9,6.55,49000,0,Private
+92,Union College,"Schenectady, NY",69.3,28.8,21.6,15.2,3.7,8.24,63000,0.9,Private
+93,Scripps College,"Claremont, CA",69.1,24.5,22.4,15.6,6.7,7.6,48000,1,Private
+93,Texas A&M University-College Station,"College Station, TX",69.1,30.9,14.6,17.9,5.8,9.03,53000,4.1,Public
+93,Trinity College,"Hartford, CT",69.1,26.2,22.2,15.5,5.2,7.12,55000,3.4,Private
+96,University of Denver,Denver CO,68.6,27.3,19.8,16.3,5.2,7.61,52000,1.6,Private
+96,Kenyon College,Gambier OH,68.6,27.3,22,15.7,3.6,8.91,44000,1.5,Private
+98,Bentley University,"Waltham, MA",68.3,29.3,17.3,15.9,5.8,8.51,76000,1.6,Private
+99,"University of California., Santa Barbara","Santa Barbara, CA",68.1,30,14,16.5,7.6,8.3,52000,2.4,Public
+100,William & Mary,"Williamsburg, VA",68,30.1,17.8,15.6,4.5,8.4,56000,0.9,Public
+101,Spelman College,"Atlanta, GA",67.9,28.4,17.8,15.9,5.8,8.98,46000,7.7,Private
+102,Connecticut College,"New London, CT",67.8,25.9,22.1,15.4,4.4,7.46,51000,2.1,Private
+102,Rhode Island Schaal of Design,"Providence, RI",67.8,26.6,20.6,14.9,5.7,8.94,46000,1,Private
+104,Howard University,"Washington, DC",67.5,23.8,21.5,16.2,6.1,7.92,46000,6.1,Private
+105,Saint Louis University,"Saint Louis, MO",67.4,25.7,20.7,16.2,4.8,8.14,54000,3.9,Private
+105,University crEConnecticut,"Storrs, CT",67.4,27,18,16.5,5.9,7.45,54000,2.2,Public
+105,The College of Wooster,Wooster OH,67.4,26.6,19.7,16.4,4.7,7.92,45000,1.2,Private
+108,Syracuse University,"Syracuse, NY",67.2,28.5,15.7,17,6,8.51,57000,3.1,Private
+109,DePauw University,"Greencastle, IN",67.1,25,21,15.9,5.2,6.85,48000,2.9,Private
+110,Gettysburg College,"Gettysburg, PA",61,26.6,21.4,13,3.2,7.9,51000,1.5,Private
+111,University of Illinois at Chicago,"Chicago, IL",66.7,24.8,17.7,16,8.1,7.3,51000,2.8,Public
+111,Rose-Hulman Institute of Technology,"Terre Haute, IN",66.7,28.9,18.8,15.2,3.9,9.35,79000,0.5,Private
+113,Dickinson College,"Carlisle, PA",66.6,27.1,20.6,15.2,3.7,7.13,53000,0.9,Private
+113,Brigham Young University-Provo,"Provo, UT",66.6,33.7,12.9,17.9,2.1,9.16,57000,1.1,Private
+115,Pitzer College,"Claremont, CA",66.5,22.6,20.2,16.7,7,8.05,45000,1.5,Private
+122,University of Minnesota Twin Cities,"Minneapolis, MN",66,28.4,15.5,17,5.1,8.39,48000,2.2,Public
+123,Virginia Polytechnic Institute and State University,"Blacksburg, VA",65.8,29.9,14,17.3,4.6,9.09,58000,1.7,Public
+123,Babson College,"Wellesley, MA",65.8,28.7,15.7,15.2,6.2,8.17,84000,5,Private
+125,Illinois Institute of Technology,"Chicago, IL",65.7,26.2,17.4,14.1,8,6.35,69000,2.1,Private
+125,Pennsylvania State University,"University Park, PA",65.7,25.4,17.9,17,5.4,8.86,48000,4.9,Public
+127,Seattle University,"Seattle, WA",65.6,23.5,18.5,16.4,7.3,7.7,56000,1.7,Private
+128,Loyola Marymount University,"Los Angeles, CA",65.5,22.2,19.3,16.7,7.4,8.65,55000,1.7,Private
+128,Allegheny College,"Meadville, PA",65.5,24.9,20.6,15.5,4.4,7.72,49000,2.8,Private
+130,Furman University,"Greenville, SC",65.4,26.2,20.4,16.2,2.7,7.97,47000,3.1,Private
+130,Stevens Institute of Technology,"Hoboken, NJ",65.4,26.3,19.8,14.4,4.9,7.75,83000,1.5,Private
+130,Reed College,"Portland, OR",65.4,23,23,14.2,5.2,8.14,36000,3.3,Private
+130,Rochester Institute of Technology,"Rochester, NY",65.4,25.2,18,17,5.2,8.16,58000,3.1,Private
+134,Creighton University,"Omaha, NE",65.2,23.9,21.2,16.7,3.5,8.5,57000,1.4,Private
+134,Art Center College of Design,"Pasadena, CA",65.2,24.1,18.7,14.9,7.5,8.97,54000,4,Private
+136,Willamette University,"Salem, OR",65.1,23.9,19.6,15.5,6.1,7.83,49000,1.8,Private
+137,North Carolina State University at Raleigh,"Raleigh, NC",65,28,15.6,17,4.4,8.36,48000,2.8,Public
+138,Indiana University Bloomington,"Bloomington, IN",64.9,28.6,14.1,17.2,5,8.53,45000,3.1,Public
+139,"University of California, Irvine","Irvine, CA",64.8,23.5,15.8,16.3,9.1,8.08,55000,2.1,Public
+140,Hobart and William Smith Colleges,"Geneva, NY",64.7,25.3,20.5,15.2,3.7,6.88,49000,1.9,Private
+141,Illinois Wesleyan University,"Bloomington, IL",64.4,25.7,19.5,15.6,3.6,8.08,54000,1,Private
+141,Arizona State University,"Tempe, AZ",64.4,25.7,14,16.7,7.9,8.1,45000,7,Public
+143,Ohio Northern University,"Ada, OH",64.3,24.9,19.1,17.5,2.8,8.63,56000,1.9,Private
+143,Skidmore College,"Saratoga Springs, NY",64.3,21.4,22.9,15.3,4.7,7.86,43000,2,Private
+145,Elon University,"Elon, NC",64.2,25.4,18.6,17.3,2.9,7.74,46000,1.3,Private
+145,University of Iowa,"Iowa City, IA",64.2,26.5,15.9,16.9,4.9,8.71,49000,2.8,Public
+147,Rutgers University-New Brunswick,New Brunswick NJ,64.1,25.8,14.9,16,7.4,7.8,55000,3.4,Public
+147,Stony Brook University,"Stony Brook, NY",64.1,24.6,16.2,15.3,8.1,7.19,55000,3.3,Public
+149,University of Delaware,"Newark, DE",64,27.1,15.8,16.7,4.4,7.93,55000,2,Public
+150,Centre College,"Danville, KY",63.9,25.9,20.2,15.5,2.3,8.27,44000,1.9,Private
+150,Gustavus Adolphus College,"Saint Peter, MN",63.9,25.7,19,16,3.3,7.05,50000,0.5,Private
+152,Clarkson University,"Potsdam, NY",63.8,27.2,17.9,14.6,4.2,7.35,68000,1.8,Private
+153,Kalamazoo College,"Kalamazoo, Ml",63.6,26.5,16.5,15,5.6,8.15,51000,0,Private
+153,St Olaf College,"Northfield, MN",63.6,24.9,19.2,16,3.6,8.55,45000,0.7,Private
+155,University of Massachusetts Amherst,"Amherst, MA",63.4,27.9,14.6,16.3,4.7,8.22,49000,3.1,Public
+155,Michigan Technological University,"Houghton, MI",63.4,25.5,17.4,16.6,3.8,9.28,61000,2,Public
+155,Pepperdine University,Malibu. CA,63.4,25.1,15.4,16.2,6.7,8.01,60000,1.9,Private
+158,Stonehill College,"Eastc [-_, MA",63.2,27.5,17.5,16.2,2,7.98,59000,0.9,Private
+158,Marquette University,"Milv.,..3L kee. W'",63.2,26.8,15.4,17.1,3.9,8.16,56000,1.2,Private
+160,St Lawrence University,"Canton, NY",63.1,23.5,20,15.9,3.7,8.55,46000,2.5,Private
+160,Temple University,"Philadelphia, PA",63.1,23.5,15.4,17.1,7,8.29,47000,4.5,Public
+162,Rhodes College,"Memphis, TN",62.9,24.1,20.4,15.4,3,7.73,51000,2.1,Private
+162,University of Puget Sound,"Tacoma, WA",62.9,24.5,19.6,16,2.8,7.47,50000,1.8,Private
+164,Bradley University,"Peoria, IL",62.9,24.2,17.3,17.6,3.8,8.2,52000,3.3,Private
+164,University of San Diego,"San Diego, CA",62.8,25.8,14.9,15.6,6.6,7.67,57000,2.3,Private
+166,Linfield College - McMinnville campus,"McMinnville, OR",62.7,24.2,18.3,15.2,5,7.53,52000,1.9,Private
+166,Whitman College,"Walla Walla, WA",62.7,21.1,22.7,16.2,2.7,8.22,43000,0.4,Private
+168,Santa Clara University,"Santa Clara, CA",62.6,23.4,16.8,16.1,6.4,7.46,68000,1.7,Private
+169,Simmons College,"Boston, MA",62.4,22.7,18.9,15.6,5.1,7.22,51000,1.4,Private
+170,Berea College,"Berea, KY",62.3,19.4,19.9,16.5,6.5,9.07,34000,10.4,Private
+170,University of Tulsa,"Tulsa, OK",62.3,19.1,20.7,17.1,5.4,8.74,43000,2.9,Private
+172,Susquehanna University,"Selinsgrove, PA",62.2,24.9,17.5,16.1,3.6,7.72,50000,2.9,Private
+172,Washington & Jefferson College,"Washington, PA",62.2,25.7,18.1,15.3,3.3,8.1,49000,2.1,Private
+174,University of Colorado Doulder,"Boulder, CO",62.1,27.1,13.7,16.6,4.6,8.34,48000,3.1,Public
+174,Ohio Wesleyan University,"Delaware, OH",62.1,21.4,20,16.8,3.9,7.8,42000,5.1,Private
+174,Butler University,"Indianapolis, IN",62.1,24.5,18.3,17.3,1.9,8.84,54000,1.5,Private
+177,Chapman University,"Orange, CA",61.9,26,14.5,16.4,5.1,8.31,51000,2.1,Private
+177,Sewanee-The University of the South,"Sewanee, TN",61.9,21.9,21.1,16.1,2.8,8.52,39000,2.9,Private
+179,Lawrence University,"Appleton, WI",61.7,21.6,20.5,15.3,4.3,7.88,42000,2.3,Private
+179,Texas Christian University,"Fort Worth, TX",61.7,23.1,16.8,18.1,3.6,8.54,50000,3.1,Private
+179,Knox College,"Galesburg, IL",61.7,22.2,18.5,15.3,5.8,7.57,42000,2.6,Private
+179,Wo-Fford College,"Spartanburg, SC",61.7,26.2,17.6,15.8,2.1,8.69,48000,3.1,Private
+179,University of Arizona,"Tucson, AZ",61.7,25.8,11.9,17,7.1,7.69,44000,5.7,Public
+184,Loyola University Maryland,"Baltimore, MD",61.6,25.5,16.9,15.6,3.6,7.88,63000,0.8,Private
+184,Drake University,"Des Moines, IA",61.6,24.2,17.1,16.8,3.5,7.45,56000,2.1,Private
+184,Missouri University of Science and Technology,"Rolla, MO",61.6,25.7,15.9,14.9,5,8.26,65000,4.3,Public
+184,Bryant University,"Smithfield, RI",61.6,27.1,14.4,15.8,4.3,8.3,63000,1.7,Private
+188,Clemson University,"Clemson, SC",61.5,27.2,14.1,17,3.1,8.88,50000,3,Public
+188,University of Detroit Mercy,"Detroit, MI",61.5,21.6,18.6,16,5.3,8.18,44000,3.3,Private
+188,Baylor University,"Waco, TX",61.5,22.4,17.1,17.1,4.3,8.37,49000,4.1,Private
+191,Ursinus College,"Collegeville, PA",61.4,25.9,16.3,15.6,3.6,7.8,52000,3.3,Private
+191,Colorado School of Mines,"Golden, CO",61.4,26.5,15.3,15.1,4.3,8.59,75000,2.1,Public
+191,Hampton University,"Hampton, VA",61.4,21.8,18.3,15.4,5.6,6.86,42000,7,Private
+194,Loyola University Chicago,"Chicago, IL",61.3,24.3,15.4,16.1,5.5,6.23,51000,3.2,Private
+194,Virginia Military Institute,"Lexington, VA",61.3,26,18.3,14.1,2.2,9.02,58000,2.1,Public
+196,"Embry-Riddle Aeronautical University, Daytona Beach","Daytona Reach, FL",61,23.2,16.9,14.6,6.3,8.08,61000,4.9,Private
+196,SUNY Binghamton University,"Vestal, NY",61,27.1,10.9,15.6,7.4,6.91,58000,1.9,Public
+198,Rutgers University-Newark,"Newark, NJ",60.9,20.3,18.4,14.4,7.8,7.16,55000,3.4,Public
+198,Saint Mary's College,"Notre Dame, IN",60.9,23.8,18.9,15.5,2.1,8.12,46000,0.9,Private
+198,American University,"Washington, DC",60.9,22.5,16.8,15.4,6.2,7.59,56000,1.5,Private
+198,Catholic University of America,"Washington, DC",60.9,17.1,22.8,16.3,4.7,7.31,54000,2.6,Private
+202,Muhlenberg College,"Allentown, PA",60.8,25.6,18,15.5,1.8,7.52,56000,3.1,Private
+203,Quinnipiac University,"Hamden, CT",60.6,24.9,16.1,16,3.6,7.97,57000,1.5,Private
+203,Saint Mary's College of Cali-Fomia,"Moraga, CA",60.6,22,15.8,16.4,6.5,7.49,59000,3.2,Private
+205,Beloit College,Beloit WI,60.5,20.2,19.3,16,5,6.7,38000,1.4,Private
+205,Drew University,"Madison, NJ",60.5,19.5,19.4,15.2,6.4,7.33,51000,3.9,Private
+213,Florida Institute of Technology,"Melbourne, FL",60.1,15.7,21.2,15.1,7.5,8.08,54000,1.1,Private
+214,Fairfield University,"Fairfield, CT",60,25.4,16.2,16,2.4,8.13,69000,1.6,Private
+214,University of Scranton,"Scranton, PA",60,23.8,17.5,16.8,1.8,7.2,56000,3.2,Private
+216,Lake Forest College,"Lake Forest, IL",59.9,22.6,15.8,15.1,6.5,8.03,48000,4.1,Private
+216,Cornell College,"Mount Vernon, IA",59.9,22.4,17.1,15.9,3.9,8.7,41000,2.3,Private
+218,Saint John's University,"Collegeville, MN",59.8,26.8,15.9,14.5,2.7,7.61,56000,0.9,Private
+218,University of the Sciences,"Philadelphia, PA",59.8,18.5,21.9,13.9,5.5,7.57,91000,2.9,Private
+220,Xavier University,"Cincinnati, OH",59.7,21.8,16.7,17.3,3.9,7.9,48000,3.1,Private
+220,Otis College of Art and Design,"Los Angeles, CA",59.7,19.4,18,14.5,7.8,7.45,44000,3.4,Private
+220,Mercer University,"Macon, GA",59.7,19.2,16.7,16.9,6.9,8.25,47000,4.4,Private
+220,University of San Francisco,"San Francisco, CA",59.7,20.7,14.8,15.7,8.4,7.31,61000,2.4,Private
+224,University of Dayton,"Dayton, OH",59.6,24.4,14.1,17.2,3.8,8.68,51000,2.2,Private
+224,St Mary's College of Maryland,"St Mary's City, MD",59.6,21.3,19,15.2,4.1,8.56,48000,3.1,Public
+226,Samford University,"Birmingham, AL",59.5,21.5,18.5,17.2,2.3,8.71,46000,2.1,Private
+226,Saint Anselm College,"Manchester, NH",59.5,25.9,16.9,15.3,1.4,7.51,54000,1.1,Private
+228,Washington State University,"Pullman, WA",59.4,22.8,13.2,17.2,6.3,8.07,47000,3.3,Public
+228,"California Polytechnic State University, San Luis Obispo","San Luis Obispo, CA",59.4,28.5,8.4,17.6,5,9,61000,1.8,Public
+230,Marietta College,"Marietta, OH",59.3,21,18.9,15.9,3.5,7.71,41000,4.9,Private
+230,Manhattan College,"Riverdale, NY",59.3,24,15.3,15.3,4.8,7.68,63000,2.9,Private
+230,College of Saint Benedict,"Saint Joseph, MN",59.3,25.3,15.5,15.8,2.5,7.31,47000,0.9,Private
+233,Widener University,"Chester, PA",59.1,20.7,17.6,16.1,4.8,7.74,52000,3.9,Private
+233,The College of New Jersey,"Ewing, NJ",59.1,24.6,13.2,16.3,5,8.87,56000,1.5,Public
+233,Lewis & Clark College,"Portland, OR",59.1,21.5,18.2,14.8,4.7,7.47,42000,1.6,Private
+233,Gonzalo University,"Spokane, WA",59.4,23.3,16.6,16.3,2.9,9.14,53000,1.1,Private
+237,Wheaton College (Illinois),"Wheaton, IL",59,22.7,17.1,15.9,3.3,7.93,43000,0.4,Private
+238,Austin College,"Sherman, TX",58.8,22.2,16.3,15.4,4.8,7.96,48000,5.4,Private
+239,Providence College,"Providence, RI",58.7,24.7,15.2,16.4,2.3,7.39,59000,2.9,Private
+239,Clark University,"Worcester, MA",58.7,18.7,18.6,15.2,6.1,7.64,43000,1.7,Private
+241,University of Colorado Denver,"Denver, CO",58.6,20.2,17.3,14.7,6.4,7.71,66000,3.3,Public
+241,Hope College,"Holland, MI",58.6,22.7,15.9,17.2,1.8,8.51,43000,2.1,Private
+243,Luther College,"Decorah, IA",58.5,22.2,17.9,15.8,2.5,8.17,42000,1.2,Private
+243,Elizabethtown College,"Elizabethtown, PA",58.5,22.2,17.8,15.7,2.7,8.05,48000,2.2,Private
+243,Hanover College,"Hanover, IN",58.5,21.2,18.4,15.7,3.1,8.39,43000,4.3,Private
+246,Augustana College (Illinois),"Rock Island, IL",58.4,23.5,14.7,16.9,3.3,8.22,49000,3,Private
+247,Albion College,"Albion, MI",58.3,20,19.3,16.7,2.3,7.55,45000,3.6,Private
+247,University of Vermont,"Burlington, VT",58.3,22.5,16.7,16.6,2.5,7.11,44000,3,Public
+249,Westminster College (Pennsylvania),"New Wilmington, PA",58.2,23.8,16.9,16.1,1.5,7.51,44000,2.7,Private
+249,Duquesne University,"Pittsburgh, PA",58.2,24.2,15.4,16.4,2.2,7.17,54000,2.6,Private
+251,Dominican University of California,"San Rafael, CA",58,13,19.2,14.7,6.2,7.25,52000,4.3,Private
+251,Rollins College,"Winter Park, FL",58,13,18.7,16,5.3,8.79,42000,3.9,Private
+253,"Embry-Riddle Aeronautical University, Prescott","Prescott, AZ",57.8,24.1,13,15.3,5.4,8.57,61000,4.9,Private
+253,Earlham College,"Richmond, IN",57.8,13.8,22.2,15.3,6.5,8.24,33000,3.4,Private
+255,University of Oklahoma,"Norman, OK",57.7,22.2,12.9,16.6,6,7.9,47000,4.6,Public
+255,Florida State University,"Tallahassee, FL",57.7,25.8,9.4,16.8,5.7,8.38,44000,4.4,Public
+257,SUNY University at Albany,"Albany, NY",57.5,22.4,13,14.6,7.5,7.19,50000,4.5,Public
+257,Hofstra University,"Hempstead, NY",57.5,17.9,17.2,16.7,5.7,7.51,53000,3.3,Private
+257,Westmont College,"Santa Barbara, CA",57.5,21.9,16,15.2,4.4,8.45,48000,1.5,Private
+257,Valparaiso University,"Valparaiso, IN",57.5,20.7,15.5,17.1,4.2,8.12,49000,3.6,Private
+261,University of Georgia,"Athens, GA",57.3,25.3,10.3,17.1,4.7,8.35,47000,2.3,Public
+262,Pratt Institute,"Brooklyn, NY",57.2,17.2,18.9,14.6,6.5,8.06,40000,4.1,Private
+262,University of Kansas,"Lawrence, KS",57.2,18.5,16.4,17,5.3,8.32,45000,4.3,Public
+264,Alma College,"Alma, MI",57.1,20.4,18.4,15.6,2.6,8.52,44000,2.3,Private
+264,Sarah Lawrence College,"Bronxville, NY",57.1,16.2,20.5,14.6,5.8,8.06,38000,2.2,Private
+264,Transylvania University,"Lexington, KY",57.1,22.2,17.1,15.6,2.1,8.82,40000,2.6,Private
+264,John Carroll University,"University Heights, OH",57.1,24.4,14.3,15.6,2.8,7.44,51000,2.7,Private
+268,University of Alabama at Birmingham,"Birmingham, AL",57,18.8,15.9,15.7,6.6,8.13,40000,5.4,Public
+268,University of South Carolina-Columbia,"Columbia, SC",57,21.6,12.7,16.2,4.5,8.18,42000,4.6,Public
+268,Concordia College at Moorhead,"Moorhead, MN",57,21.7,15.8,17.6,1.9,8.83,41000,1.4,Private
+271,CUNY Bernard M. Baruch College,"New York, NY",56.9,25.8,8.2,14.1,8.8,7.04,54000,2.5,Public
+272,CUNY City College of New York,"New York, NY",56.8,15.5,17.9,14.6,8.8,7.04,45000,5,Public
+272,"University of California, Riverside","Riverside, CA",56.8,18.9,13.5,16,8.5,8,48000,2.8,Public
+274,George Mason University,"Fairfax, VA",56.7,23.7,11,15.7,6.4,7.39,57000,2.1,Public
+274,Southwestern University,"Georgetown, TX",56.7,19.1,17,15.9,4.8,8.63,47000,4.1,Private
+274,Houghton College,"Houghton, NY",56.7,21.7,16.4,15.8,2.8,8.09,40000,1,Private
+274,Augustana College (South Dakota),"Sioux Falls, SD",56.7,21.6,16.6,16.1,2.3,7.92,42000,2.3,Private
+278,Adelphi University,"Garden City, NY",56.6,18.8,16,15,6.8,6.75,51000,1.5,Private
+279,Bard College,"Annandale-On-Hudson, NY",56.4,16.2,22.2,14,4.1,6.74,37000,2.8,Private
+279,Goucher College,"Baltimore, MD",56.4,18.8,18.2,14.5,4.9,7.2,46000,3.7,Private
+281,DePaul University,"Chicago, IL",56.3,21.5,11.4,16.8,6.7,7.49,51000,3.4,Private
+282,Hendrix College,"Conway, AR",56.2,18.6,18.8,15.8,3,7.81,40000,3.8,Private
+283,Moravian College,"Bethlehem, PA",55.9,22,15.1,15.5,3.3,8.29,49000,4.2,Private
+284,Suffolk University,"Boston, MA",55.8,18.1,14.8,15.8,7.1,6.6,51000,3.2,Private
+284,Oklahoma City University,"Oklahoma City, OK",55.8,14.2,18.7,17.5,5.5,8.51,40000,3.8,Private
+285,California College of the Arts ,San Francisco CA ,55.6,14.7,18,14.6,8.3,8.05,34000,5.6,Private
+286,University of Oregon,"Eugene, OR",55.7,21.9,11.5,16.2,6.2,7.95,42000,3.1,Public
+286,"University of California, Santa Cruz","Santa Cruz, CA",55.7,21.8,11.2,14.9,7.7,7.4,44000,3.1,Public
+286,Pacific Lutheran University ,"Tacoma, WA",55.7,19.6,15.2,15.7,5.2,8.13,46000,3.4,Private
+289,Rutgers University-Camden,"Camden, NJ",55.6,16.9,17.9,14.1,6.7,7.52,55000,3.4,Public
+289,Western New England University,"Springfield, MA",55.6,18.7,16.3,16,4.6,8.33,56000,4.1,Private
+303,Hampshire College,"Amherst, MA",55.1,13.6,19.9,16.3,5.3,7.92,32000,3.6,Private
+305,Lebanon Valley College,"Annville, PA",54.9,20.9,16.6,15.3,2.2,8.21,46000,3.2,Private
+306,Auburn University,"Auburn, AL",54.8,21.1,13,17.6,3.1,8.91,46000,4.3,Public
+306,Baldwin Wallace University,"Berea, OH",54.8,20.8,13.6,17.2,3.2,7.99,44000,4.1,Private
+306,CUNY Hunter College,"New York, NY",54.8,18.3,13.5,14.6,8.4,6.59,45000,3.9,Public
+306,Point Loma Nazarene University,"San Diego, CA",54.8,21.6,11,17.4,4.9,9.1,49000,2.3,Private
+310,Kettering University,"Flint, MI",54.7,19.8,14.8,14.8,5.2,8.24,76000,1.9,Private
+310,University of Hartford,"West Hartford, CT",54.7,15.6,18.5,15.7,4.9,7.15,46000,4.2,Private
+312,Saint Michael's College,"Colchester, VT",54.6,21.9,14.9,15.8,2,8.52,46000,3,Private
+312,College for Creative Studies,"Detroit, MI",54.6,18.6,16.2,15,4.9,8.07,40000,5.6,Private
+312,The University of Tennessee-Knoxville,"Knoxville, TN",54.6,20.2,14,16.6,3.8,8.29,42000,4.8,Public
+312,Miami University,"Oxford, OH",54.6,20.9,11.4,17.5,4.7,8.22,46000,9.3,Public
+312,University of Utah,"Salt Lake City, UT",54.6,19,13.5,17.1,4.9,8.36,49000,3.4,Public
+312,University of Washington-Tacoma,"Tacoma, WA",54.6,15.5,16.1,15.4,7.6,7.76,53000,2.6,Public
+312,Taylor University,"Upland, IN",54.6,18.7,15.7,17.5,2.7,8.62,38000,2,Private
+319,Pacific University,"Forest Grove, OR",54.5,14,18.8,15.8,5.9,8,42000,1.8,Private
+319,Colorado State University-Fort Collins,"Fort Collins, CO",54.5,20.9,12.7,17,3.9,8.45,44000,2.5,Public
+319,University of Hawaii at Manoa,"Honolulu, HI",54.5,11.2,19.9,15.6,7.8,7.7,44000,4.3,Public
+322,Rowan University,"Glassboro, NJ",54.3,20.3,12.7,15.8,5.6,8.61,49000,4.4,Public
+322,Hampden-Sydney College,"H arnpden-Sydney, VA",54.3,17.9,19.4,15.4,1.7,8.18,50000,3.9,Private
+322,William Jewell College,"Liberty, MO",54.3,18,17.5,16.3,2.4,8.65,41000,4.6,Private
+322,Bellarrnine University,"Louisville, KY",54.3,20,16,16.2,2.1,8.59,46000,4.4,Private
+322,Pace University-New York,"New York, NY",54.3,19.3,11.7,15.9,7.4,6.5,58000,4.3,Private
+322,Saint Joseph's University,"Philadelphia, PA",54.3,20.9,13.1,16.8,3.4,8.33,58000,3.2,Private
+328,University of Cincinnati-Uptown,"Cincinnati, OH",54.2,19.5,12.5,17.3,4.8,8.36,39000,7.6,Public
+328,University of Mississippi,"University, MS",54.2,19,14.3,16.5,4.5,8.79,41000,7.6,Public
+330,University of Missouri-Columbia,"Columbia, MO",54,22.8,11.2,16.1,4,7.45,46000,4.4,Public
+330,Illinois College,"Jacksonville, IL",54,16.7,18.2,14.9,4.1,7.74,38000,4,Private
+330,Saint Francis University,"Loretto, PA",54,22.9,12.4,16.8,1.9,8.49,47000,4.7,Private
+330,"University of Nevada, Reno","Reno, NV",54,19,12.3,16.5,6.3,8.13,45000,5.2,Public
+334,Cedar Crest College,"Allentown, PA",53.9,17,14.8,17.3,4.9,8.48,46000,4.3,Private
+335,Andrews University,"Berrien Springs, MI",53.8,10.9,18.7,16.1,8,7.85,35000,4.1,Private
+335,Nova Southeastern University,"Fort Lauderdale, FL",53.8,14.9,14.9,16,8,7.69,46000,3.1,Private
+335,Nazareth College,"Rochester, NY",53.8,15.6,18.1,16.7,3.3,7.78,44000,2.5,Private
+338,CUNY Brooklyn College,"Brooklyn, NY",53.7,20.4,9.8,15.5,8,7.46,44000,4.4,Public
+338,Southern Illinois University Carbondale,"Carbondale, IL",53.1,14.3,15.9,16.4,7,7.84,41000,8.7,Public
+340,Stetson University,"Die Land, FL",53.6,15.2,17.2,15.6,5.5,7.11,42000,3.7,Private
+340,Saint Vincent College,"Latrobe, PA",53.6,22.1,13.7,16,1.8,8.13,45000,3,Private
+340,Tuskegee University,"Tuskegee, AL",53.6,15.7,17.4,15,5.6,7.73,37000,1.2,Private
+343,University of New England,"Biddeford, ME",53.5,21.5,15.5,14.9,1.5,6.91,45000,2.6,Private
+343,University of Redlands,"Redlands, CA",53.5,21.2,10.7,15.8,5.8,8.08,53000,2.7,Private
+345,Brigham Young University-Hawaii,"Laie, HI",53.4,19.9,9.6,16.5,7.5,9.39,40000,5.7,Private
+346,Queens University of Charlotte,"Charlotte, NC",53.3,15.7,17.2,15.6,4.9,7.27,38000,5.9,Private
+346,Carroll College,"Helena, MT",53.3,22.1,13.4,16.3,1.4,8.14,45000,2.1,Private
+348,University of Washington-Bothell,"Bothell, WA",53.2,16.5,14.3,14.8,7.7,7.73,53000,2.6,Public
+348,Rider University,"Lawrenceville, NJ",53.2,17.4,15.6,15.2,5,7.07,49000,4.8,Private
+348,Merrimack College,North Andover MA,53.2,22.1,12.3,15.9,3,7.48,56000,3.9,Private
+348,University of St Thomas,"Saint Paul, MN",53.2,19.7,13.7,16.6,3.3,7.9,50000,1.9,Private
+348,Springfield College,"Springfield, MA",53.2,21.5,13.8,15.2,2.7,8.19,44000,7.1,Private
+353,St Norbert College,"De Pere, WI",53.1,21.8,12.6,17,1.7,8.34,45000,1.3,Private
+353,St John Fisher College,"Rochester, NY",53.1,18.8,15.4,16,2.9,8.48,45000,3,Private
+355,MCPHS University,"Boston, MA",53,23.8,9.4,13,6.8,6.36,115000,1.6,Private
+355,Kansas State University,"Manhattan, KS",53,18,13.3,17.3,4.3,8.76,43000,5,Public
+357,University of Maryland. Baltimore County,"Baltimore, MD",52.9,21.6,9.4,15,6.9,7.35,54000,3.7,Public
+357,Xavier University of Louisiana,"New Orleans, LA",52.9,18.1,12.9,15.4,6.5,6.38,47000,8.5,Private
+357,Lawrence Technological University,"Southfield, MI",52.9,18,14.7,15.2,5,8.38,54000,3.7,Private
+360,Azusa Pacific University,"Azusa, CA",52.8,16.2,13.8,15.6,7.2,8.33,50000,3,Private
+360,Elmhurst College,"Elmhurst, IL",52.8,21.9,10.5,16.6,3.9,7.49,48000,1.8,Private
+360,University of Kentucky,"Lexington, KY",52.8,19.3,13,16.8,3.8,8.07,42000,4.5,Public
+360,Hartwick College,"Oneonta, NY",52.8,17.8,17.3,14.4,3.2,6.9,44000,6.2,Private
+360,Albright College,"Reading, PA",52.2,21.3,11,14.9,5.5,6.47,47000,4.6,Private
+360,Assumption College,"Worcester, MA",52.8,22.9,12.3,15.4,2.2,7.27,53000,2.8,Private
+366,SU NY College of Environmental Science and Forestry,"Syracuse, NY",52.7,19,15.2,15.7,2.7,9.06,43000,2.5,Public
+367,Canisius College,"Buffalo, NY",52.6,18,15.5,15.9,3.1,7.11,46000,3.5,Private
+367,Cedarville University,"Cedarville, OH",52.6,21.1,12,17.9,1.6,8.7,41000,2,Private
+367,Marian University (Indiana),"Indianapolis, IN",52.6,19.2,15.1,15,3.3,7.37,41000,5.3,Private
+367,CU NY Queens College,"Queens, NY",52.6,19.9,9.4,15.5,7.9,7.28,48000,1.5,Public
+371,University of Wyoming,"Laramie, WY",52.5,16.3,15.5,17.3,3.2,8.65,46000,4.3,Public
+371,Messiah College,"Mechanicsburg, PA",52.5,19.2,13.9,17.5,1.9,8.37,42000,2.6,Private
+371,New Jersey Institute of Technology,"Newark, NJ",52.5,21,10.3,13.4,7.9,7.58,60000,3.9,Public
+371,Wartburg College,"Waverly, IA",52.5,17.8,16.4,15.6,2.6,8.11,43000,5.8,Private
+375,Milwaukee School of Engineering,"Milwaukee, WI",52.4,21.7,11.9,14.7,3.9,8.28,66000,3.2,Private
+375,King's College,"Wilkes-Barre, PA",52.4,20.8,13.6,15.9,2.1,7.49,48000,5.5,Private
+377,"The Citadel, The Military College of South Carolina","Charleston, SC",52.3,22.2,12.1,14.5,3.5,8.81,52000,3,Public
+377,Georgetown College,"Georgetown, KY",52.3,17.6,16.7,15.5,2.6,8.08,42000,6.3,Private
+377,West Virginia University,"Morgantown, WV",52.3,19.1,12.5,16.2,3.8,8.3,44000,7.5,Public
+377,Campbell University,"Rules Creek, NC",52.3,16.7,13.8,16.9,4.9,7.25,43000,5.8,Private
+377,St Catherine University,"Saint Paul, MN",52.3,17,14.3,16.9,4.1,7.31,45000,3.9,Private
+377,San Diego State University,"San Diego, CA",52.3,21.5,6.5,16.3,8,8.59,48000,3.5,Public
+377,Califomia State University Maritime Academy,Vallejo CA,52.3,17.9,14.9,14,5.5,8.25,80000,3.8,Public
+384,School of the Art Institute of Chicago,"Chicago, IL",52.2,13,18.6,14.2,6.4,7.21,32000,7.4,Private
+385,University of Mount Union,"Alliance, OH",52.1,19.4,12.6,17,3.1,8.56,41000,4.3,Private
+385,Philadelphia University,"Philadelphia, PA",52.1,19.3,11.8,15.9,5.1,7.97,48000,4.4,Private
+387,Roger Williams University,"Bristol, RI",52,17.7,15.1,16.3,3,7.56,47000,2.9,Private
+387,Union University,"Jackson, TN",52,15.4,15.9,17.2,3.4,7.94,38000,3.6,Private
+395,Central College,"Pella, IA",51.6,18.3,15.7,15.5,2.2,8.91,42000,2.3,Private
+396,University of Dallas,"Irving, TX",51.5,16.4,16.3,15.2,3.6,8.72,45000,1.6,Private
+396,Chatham University,"Pittsburgh, PA",51.5,11.6,19.9,15,4.9,8.02,34000,2.3,Private
+396,Wittenberg University,"Springfield, OH",51.5,18.4,14.4,15.9,2.8,7.99,42000,3.9,Private
+399,Hiram College,"Hiram, OH",51.4,14.9,16.6,15.5,4.4,7.1,38000,8,Private
+399,John Brown University,"Siloam Springs, AR",51.4,22,9.5,16.7,3.2,9.29,46000,3.9,Private
+401,College of Idaho,"Caldwell, ID",51.3,15.8,15.1,16,4.5,8.33,38000,3.8,Private
+401,Capital University,"Columbus, OH",51.3,17.4,14.2,16.6,3.1,8.01,41000,4.7,Private
+401,University of Missouri-Kansas City,"Kansas City, MO",51.3,13.8,16.3,14.8,6.4,7.57,43000,7.7,Public
+401,New York Institute of Technology,"Old Westbury, NY",51.3,14.4,14.7,13.8,8.4,6.36,50000,6.3,Private
+401,Otterbein University,"Westerville, OH",51.3,15.8,16.4,16.6,2.5,7.81,41000,5.5,Private
+406,University of Michigan-Dearborn,"Dearborn, MI",51.2,17.4,11.3,15.7,6.8,8.12,46000,4.6,Public
+406,University of Louisville,"Louisville, KY",51.2,12.2,18.8,15.2,5.1,7.87,38000,7.3,Public
+406,Virginia Commonwealth University,"Richmond, VA",51.2,15,13.5,15.7,6.9,7.11,42000,3.6,Public
+409,The College of St Scholastica,"Duluth, MN",51.1,21.9,10.7,15.9,2.7,8.06,49000,3.4,Private
+409,James Madison University,"Harrisonburg, VA",51.1,23.4,8.6,16.3,2.9,9.02,53000,2.1,Public
+409,Montclair State University,"Montclair, hU",51.1,21.3,7,15.3,7.4,7.02,48000,3.3,Public
+409,Roanoke College,"Salem, VA",51.1,17.7,15.3,15.8,2.4,8.12,43000,5.2,Private
+413,Norwich University,"Northfield, VT",50.9,18.5,15.1,14.5,2.7,8.39,46000,3.9,Private
+413,Oklahoma State University,"Stillwater, OK",50.9,20,8.8,16.7,5.4,7.73,44000,5.3,Public
+413,Gordon College,"We nham, MA",50.9,19.3,12.3,15.4,3.9,8.03,41000,2.2,Private
+416,"St Joseph's College-New Yor,","Brooklyn, NY",50.8,19.6,11.8,15,4.4,7.94,52000,3.4,Private
+417,St Edward's University,"Austin, TX",50.7,14.5,12.5,17.3,6.4,8.3,44000,5.9,Private
+417,Doane College-Crete,"Crete, NE",50.7,15.5,17.1,15.7,2.1,8.55,43000,4.2,Private
+417,Gannon University,"Erie, PA",50.7,18.2,13.1,16,3.5,8.13,46000,5.7,Private
+417,Franklin College,"Franklin, IN",50.7,16.7,15,16.4,2.6,8.56,41000,5.6,Private
+417,Berry College,"Mount Berry, GA",50.7,14.2,18.7,16.1,1.7,8.64,38000,3.4,Private
+417,Marist College,"Poughkeepsie, NY",50.7,21.6,10.2,15.6,3.3,7.5,54000,2.6,Private
+417,Lycoming College,"Williamsport, PA",50.7,19.1,12.8,15.6,3.2,7.98,43000,4.2,Private
+424,SUNY New Rai,"New Patti, NY",50.6,18.5,10.6,15.6,5.9,8.04,45000,3.6,Public
+424,Salve Regina University,Newport RI,50.6,21.8,11.7,15.3,1.8,7.72,49000,1.5,Private
+424,Seattle Pacific University,"Seattle, WA",50.6,17.5,11.3,16.5,5.2,7.22,44000,2.6,Private
+424,Wagner College,"Staten Island, NY",50.6,19.4,13.1,14.2,3.9,7.04,54000,2.8,Private
+424,Wilkes University,"Wilkes-Barre, PA",50.6,18.6,12.1,15,4.8,7.41,50000,4.8,Private
+429,LIU Post,"Brookville, NY",50.5,16.7,11.7,15.8,6.2,7.22,45000,5.9,Private
+429,St Ambrose University,"Davenport, IA",50.5,15.6,14.9,17.4,2.6,8.57,45000,4.3,Private
+429,Eastern Mennonite University,"Harrisonburg, VA",50.5,14.8,16.9,15.7,3.1,7.9,38000,2.9,Private
+429,Monmouth College,"Monmouth, IL",50.5,15.2,16.5,14.5,4.4,7.38,40000,8.7,Private
+429,St John's University-New York,"Queens, NY",50.5,18.6,9.7,15.1,7.1,6.62,53000,4.7,Private
+434,Stockton University,"Galloway, NJ",50.4,22.9,7.3,14.4,5.7,7.39,47000,5.3,Public
+434,Trinity Christian College,"Palos Heights, IL",50.4,16.7,13.4,16,4.3,7.97,42000,4,Private
+434,Le Moyne College,"Syracuse, NY",50.4,20,12.4,15,3,7.55,49000,4.2,Private
+437,Emerson College,"Boston, MA",50.3,19.6,11.6,14.2,4.5,7.87,45000,1.9,Private
+437,University of Arkansas,"Fayetteville, AR",50.3,20.2,9.3,16.5,4.3,8.33,44000,6.6,Public
+437,East Carolina University,"Greenville, NC",50.3,17.8,10.7,16.9,5,8.08,39000,5.2,Public
+437,Lincoln Memorial University,"Harrogate, TN",50.3,15.5,16.5,15,3.3,8.26,37000,4,Private
+437,University of South Florida,"Tampa, FL",50.3,18.3,8,16.4,7.6,7.98,41000,6.2,Public
+437,California Lutheran University,"Thousand Oaks, CA",50.3,19.1,9.8,15.6,5.8,8.23,52000,2.6,Private
+443,Louisiana State University,"Baton Rouge, LA",50.1,18.7,10.5,16.3,4.6,8.2,46000,6,Public
+443,University of New Hampshire,"Durham, NH",50.1,21.1,9.2,16.5,2.7,8.53,47000,2.1,Public
+443,University of Indianapolis,"Indianapolis, IN",50.1,14.6,14.4,16.7,4.3,7.78,42000,6.1,Private
+443,Loyola University New Orleans,"New Orleans, LA",50.1,9.9,17.3,17,5.9,8.52,42000,5.6,Private
+447,Eastern Illinois University,"Charleston, IL",50,14.5,14.8,16,4.2,8.04,41000,4.8,Public
+447,Millikin University,"Decatur, IL",50,15.4,15.1,16.1,3.3,8.24,42000,6.8,Private
+449,Southern Nazarene University,"Bethany, OK",49.9,18.6,10.8,16,4.5,8.36,46000,6.7,Private
+449,Whitworth University,"Spokane, WA",49.9,16.3,14.1,16.7,2.8,8.87,41000,1.9,Private
+451,Misericordia University,"Dallas, PA",49.8,20.2,12.4,15.2,1.9,8.13,48000,5.9,Private
+451,Nebraska Wesleyan University,"Lincoln, NE",49.8,19.5,12.1,16.5,1.8,8.24,45000,2.2,Private
+453,Gwynedd Mercy University,"Gwynedd Valley, PA",49.7,19.1,12.2,14.3,4.1,7.82,52000,5.3,Private
+453,Martin Luther College,"New Ulm, MN",49,21.1,12.4,15,1.3,8.83,40000,0.6,Private
+455,Randolph-Macon College,"Ashland, VA",49.6,15.7,16.4,14.9,2.6,7.22,45000,4.4,Private
+455,University of Alabama in Huntsville,"Huntsville, AL",49.6,14.7,13.5,15.1,5.1,8.65,46000,5.3,Public
+455,McDaniel College,"Westminster, MD",49.6,17.5,14.1,14.8,3.3,8.25,46000,2.5,Private
+458,University of New Mexico,"Albuquerque, NM",49.5,14,12.3,15.6,7.6,7.08,35000,12.7,Public
+458,Hamline University,"Saint Paul, MN",49.5,19.1,11.3,15.3,3.8,7.24,47000,2.8,Private
+460,Maryland Institute College of Art,"Baltimore, MD",49.4,13.5,15.8,14.6,5.5,7.2,32000,3.9,Private
+460,University of Massachusetts Boston,"Boston, MA",49.4,14.7,11.9,14.2,8.6,6.52,46000,5.4,Public
+460,Clarke University,"Dubuque, IA",49.4,15.5,16.7,15.3,1.9,7.6,41000,3.3,Private
+460,University of Texas at Dallas,"Richardson, TX",49.4,17.2,9.9,14.9,7.4,7.23,50000,4.7,Public
+464,Hastings College,"Hastings, NE",49.3,16.3,14.9,16.1,1.9,7.66,41000,4.8,Private
+464,Christian Brothers University,"Memphis, TN",49.3,16.9,10.3,16.3,5.1,7.72,46000,7.2,Private
+464,University of Alabama,"Tuscaloosa, AL",49.3,18,11,16.3,3.9,8.79,42000,5.2,Public
+467,University of Nebraska-Lincoln,"Lincoln, NE",49.2,17.9,10.4,16.5,4.4,7.17,44000,2.7,Public
+468,Maryville University,"Saint Louis, MO",49.1,20.1,8.4,16.8,3.2,8.15,45000,4.4,Private
+468,Fa irleigh Dickinson University,Teaneck W,49.1,12.3,15.3,14.3,7.2,7.32,47000,5,Private
+470,"California State University, Chico","Chico, CA",49,21.9,3.8,16.7,6.6,8.05,45000,3.9,Public
+470,Western Illinois University,"Macomb, IL",49,11,11.7,16.4,5.9,7.82,41000,7.1,Public
+470,The University of the Arts,"Philadelphia, PA",49,11.5,17.3,15.1,5.2,7.99,30000,8.4,Private
+473,"California State University, Long Beach","Long Beach, CA",48.9,19.2,4.1,16.8,8.8,8.01,47000,3.5,Public
+473,Eastern Nazarene College,"Quincy, MA",48.9,18.8,9.1,14.5,6.4,6.63,45000,6.2,Private
+473,University of Toledo,"Toledo, OH",48.9,14.3,12.3,16.5,5.8,7.54,40000,9.9,Public
+476,Marymount University,"Arlington, VA",48.8,16.8,11,14.7,6.3,7.22,50000,2.8,Private
+476,Morehouse College,"Atlanta, GA",48.8,13.3,14.4,15.2,5.8,8.37,41000,16.2,Private
+476,Arcadia University,"Glenside, PA",48.8,13.9,13.6,16.2,5.1,7.63,43000,3.5,Private
+476,Truman State University,"Kirksville, MO",48.8,20.8,9.6,15.6,2.8,7.92,43000,3.1,Public
+476,University of Minnesota Morris,"Morris, MN",48.8,16,12.8,14.6,5.5,7.11,39000,6.3,Public
+476,Salem College,"Winston-Salem, NC",48.8,14.7,11.7,14.5,5.9,6.54,33000,5.1,Private
+482,University of Charleston,"Charleston, WV",48.7,19.6,10.6,14.4,4.2,6.07,42000,10.7,Private
+482,University of Central Florida,"Orlando, FL",48.7,19.7,5.6,16.6,6.8,8.22,43000,4.8,Public
+484,Oglethorpe University,"Atlanta, GA",48.5,16.8,10.7,14.6,6.4,7.38,44000,8.5,Private
+484,Massachusetts College of Art and Design,BostoR MA,48.5,14.4,16.4,13.9,3.8,7.8,34000,4.5,Public
+484,Walla Walla University,"College Place, WA",48.5,17.6,12,15.4,3.5,8.49,46000,4.3,Private
+484,High Point University,High Point NC,48.5,17,13.4,15.9,2.1,7.93,37000,5.6,Private
+484,Chestnut Hill College,"Philadelphia, PA",48.5,13.5,14.4,14.8,5.2,5.67,41000,7.9,Private
+489,Ohio University,"Athens, OH",48.4,15.8,11.1,17.3,4.1,8.13,40000,8.8,Public
+489,Birmingham-Southern College,"Birmingham, AL",48.4,15.3,15.3,15.8,2,8.06,43000,3,Private
+489,Mount St Mary's University,"Ernrnitsburg, MD",48.4,17.9,11.7,15.7,3.2,8.67,50000,2.5,Private
+489,Belmont University,"Nashville, TN",48.4,16.4,12.8,16.9,2.3,8.59,40000,2.1,Private
+489,"California State Polytechnic University, Pomona","Pomona, CA",48.4,20.1,4.3,15.5,8.5,7.77,51000,2.9,Public
+489,Shenandoah University,"Winchester, VA",48.4,9.9,18.4,15.6,4.5,8.15,40000,3.4,Private
+495,Ouachita Baptist University,"Arkadelphia, AR",48.3,15.6,14.1,16.8,1.8,8.97,37000,7.8,Private
+495,St Bonaventure University,"Saint Bonaventure, NY",48.3,14.9,15.7,15,2.6,7.16,45000,4.5,Private
+495,St Marys University,"San Antonio, TX",48.3,10.8,14.7,16.1,6.7,7.93,46000,6,Private

@@ -1,0 +1,52 @@
+﻿region,region_num,division,div_number,state,state_number,state_abbreviation
+South,3,East South Central,6,Alabama         ,1,AL
+West,4,Pacific,9,Alaska          ,2,AK
+West,4,Mountain,8,Arizona         ,4,AZ
+South,3,West South Central,7,Arkansas        ,5,AR
+West,4,Pacific,9,California      ,6,CA
+West,4,Mountain,8,Colorado        ,8,CO
+Northeast,1,New England,1,Connecticut     ,9,CT
+South,3,South Atlantic,5,Delaware        ,10,DE
+South,3,South Atlantic,5,District of Columbia ,11,DC
+South,3,South Atlantic,5,Florida         ,12,FL
+South,3,South Atlantic,5,Georgia         ,13,GA
+West,4,Pacific,9,Hawaii          ,15,HI
+West,4,Mountain,8,Idaho           ,16,ID
+Midwest,2,East North Central,3,Illinois        ,17,IL
+Midwest,2,East North Central,3,Indiana         ,18,IN
+Midwest,2,West North Central,4,Iowa            ,19,IA
+Midwest,2,West North Central,4,Kansas          ,20,KS
+South,3,East South Central,6,Kentucky        ,21,KY
+South,3,West South Central,7,Louisiana       ,22,LA
+Northeast,1,New England,1,Maine           ,23,ME
+South,3,South Atlantic,5,Maryland        ,24,MD
+Northeast,1,New England,1,Massachusetts   ,25,MA
+Midwest,2,East North Central,3,Michigan        ,26,MI
+Midwest,2,West North Central,4,Minnesota       ,27,MN
+South,3,East South Central,6,Mississippi     ,28,MS
+Midwest,2,West North Central,4,Missouri        ,29,MO
+West,4,Mountain,8,Montana         ,30,MT
+Midwest,2,West North Central,4,Nebraska        ,31,NE
+West,4,Mountain,8,Nevada          ,32,NV
+Northeast,1,New England,1,New Hampshire   ,33,NH
+Northeast,1,Middle Atlantic,2,New Jersey      ,34,NJ
+West,4,Mountain,8,New Mexico      ,35,NM
+Northeast,1,Middle Atlantic,2,New York        ,36,NY
+South,3,South Atlantic,5,North Carolina  ,37,NC
+Midwest,2,West North Central,4,North Dakota    ,38,ND
+Midwest,2,East North Central,3,Ohio            ,39,OH
+South,3,West South Central,7,Oklahoma        ,40,OK
+West,4,Pacific,9,Oregon          ,41,OR
+Northeast,1,Middle Atlantic,2,Pennsylvania    ,42,PA
+Northeast,1,New England,1,Rhode Island    ,44,RI
+South,3,South Atlantic,5,South Carolina  ,45,SC
+Midwest,2,West North Central,4,South Dakota    ,46,SD
+South,3,East South Central,6,Tennessee       ,47,TN
+South,3,West South Central,7,Texas           ,48,TX
+West,4,Mountain,8,Utah            ,49,UT
+Northeast,1,New England,1,Vermont         ,50,VT
+South,3,South Atlantic,5,Virginia        ,51,VA
+West,4,Pacific,9,Washington      ,53,WA
+South,3,South Atlantic,5,West Virginia   ,54,WV
+Midwest,2,East North Central,3,Wisconsin       ,55,WI
+West,4,Mountain,8,Wyoming         ,56,WY
