@@ -1,471 +1,471 @@
 loc_string,Address,Latitude,Longitude
-"Harvard University, Cambridge, MA, USA","Cambridge, MA 02138, USA",42.3770029,-71.11666009999998
-"Columbia University, New York, NY, USA","116th St & Broadway, New York, NY 10027, USA",40.8075355,-73.96257270000001
+"Harvard University, Cambridge, MA, USA","Cambridge, MA 02138, USA",42.3770029,-71.1166601
+"Columbia University, New York, NY, USA","116th St & Broadway, New York, NY 10027, USA",40.8075355,-73.9625727
 "Massachusetts Institute of Technology, Cambridge, MA, USA","77 Massachusetts Ave, Cambridge, MA 02139, USA",42.360091,-71.09416
 "Stanford University, Stanford, CA, USA","450 Serra Mall, Stanford, CA 94305, USA",37.4274745,-122.169719
 "Duke University, Durham, NC, USA","Durham, NC 27708, USA",36.0014258,-78.9382286
-"Yale University, New Haven, CT, USA","New Haven, CT 06520, USA",41.3163244,-72.92234309999998
-"California Institute of Technology, Pasadena, CA, USA","1200 E California Blvd, Pasadena, CA 91125, USA",34.1376576,-118.12526899999999
+"Yale University, New Haven, CT, USA","New Haven, CT 06520, USA",41.3163244,-72.9223431
+"California Institute of Technology, Pasadena, CA, USA","1200 E California Blvd, Pasadena, CA 91125, USA",34.1376576,-118.125269
 "University of Pennsylvania, Philadelphia, PA, USA","Philadelphia, PA 19104, USA",39.9522188,-75.1932137
 "Princeton University, Princeton, NJ, USA","Princeton, NJ 08544, USA",40.3439888,-74.6514481
 "Cornell University, Ithaca, NY, USA","Ithaca, NY 14850, USA",42.4534492,-76.4735027
-"University of Chicago, Chicago, IL, USA","5801 S Ellis Ave, Chicago, IL 60637, USA",41.788607899999995,-87.59871329999999
-"Brown University, Providence, RI, USA","Providence, RI 02912, USA",41.826771799999996,-71.40254820000001
+"University of Chicago, Chicago, IL, USA","5801 S Ellis Ave, Chicago, IL 60637, USA",41.7886079,-87.5987133
+"Brown University, Providence, RI, USA","Providence, RI 02912, USA",41.8267718,-71.4025482
 "Washington University in St Louis, Saint Louis, MO, USA","1 Brookings Dr, St. Louis, MO 63130, USA",38.6487895,-90.3107962
 "Rice University, Houston, TX, USA","6100 Main St, Houston, TX 77005, USA",29.7173941,-95.4018312
-"Northwestern University, Evanston, IL, USA","633 Clark St, Evanston, IL 60208, USA",42.0564594,-87.67526699999998
+"Northwestern University, Evanston, IL, USA","633 Clark St, Evanston, IL 60208, USA",42.0564594,-87.675267
 "University of Southern California, Los Angeles, CA, USA","Los Angeles, CA 90007, USA",34.0223519,-118.285117
-"Johns Hopkins University, Baltimore, MD, USA","Baltimore, MD 21218, USA",39.329901299999996,-76.62051770000001
-"Dartmouth College, Hanover, NH, USA","Hanover, NH 03755, USA",43.704440600000005,-72.28869350000001
-"Emory University, Atlanta, GA, USA","1364 Clifton Rd, Atlanta, GA 30322, USA",33.792047499999995,-84.3220205
-"Carnegie Mellon University, Pittsburgh, PA, USA","5000 Forbes Ave, Pittsburgh, PA 15213, USA",40.4428081,-79.94301279999998
+"Johns Hopkins University, Baltimore, MD, USA","Baltimore, MD 21218, USA",39.3299013,-76.6205177
+"Dartmouth College, Hanover, NH, USA","Hanover, NH 03755, USA",43.7044406,-72.2886935
+"Emory University, Atlanta, GA, USA","1364 Clifton Rd, Atlanta, GA 30322, USA",33.7920475,-84.3220205
+"Carnegie Mellon University, Pittsburgh, PA, USA","5000 Forbes Ave, Pittsburgh, PA 15213, USA",40.4428081,-79.9430128
 "Vanderbilt University, Nashville, TN, USA","2201 West End Ave, Nashville, TN 37235, USA",36.1447034,-86.8026551
-"Williams College, Williamstown, MA, USA","880 Main St, Williamstown, MA 01267, USA",42.712803799999996,-73.20302140000003
+"Williams College, Williamstown, MA, USA","880 Main St, Williamstown, MA 01267, USA",42.7128038,-73.2030214
 "Amherst College, Amherst, MA, USA","Amherst, MA 01002, USA",42.3709104,-72.5170028
 "University of Notre Dame, Notre Dame IN, USA","Notre Dame, IN 46556, USA",41.7055716,-86.2353388
 "University of California, Los Angeles, Los Angeles, CA, USA","Los Angeles, CA 90095, USA",34.068921,-118.4451811
 "Pomona College, Claremont, CA, USA","Sumner Hall, 333 N College Way, Claremont, CA 91711, USA",34.097743,-117.711803
 "University of Michigan-Ann Arbor, Ann Arbor, MI, USA","500 S State St, Ann Arbor, MI 48109, USA",42.2780436,-83.7382241
-"Wellesley College, Wellesley, MA, USA","106 Central St, Wellesley, MA 02481, USA",42.29357329999999,-71.3059277
-"New York University, New York, NY, USA","New York, NY 10003, USA",40.72951339999999,-73.9964609
-"Swarthmore College, Swarthmore, PA, USA","500 College Ave, Swarthmore, PA 19081, USA",39.9068405,-75.35564830000001
-"Georgetown University, Washington, DC, USA","3700 O St NW, Washington, DC 20057, USA",38.9076089,-77.07225849999998
+"Wellesley College, Wellesley, MA, USA","106 Central St, Wellesley, MA 02481, USA",42.2935733,-71.3059277
+"New York University, New York, NY, USA","New York, NY 10003, USA",40.7295134,-73.9964609
+"Swarthmore College, Swarthmore, PA, USA","500 College Ave, Swarthmore, PA 19081, USA",39.9068405,-75.3556483
+"Georgetown University, Washington, DC, USA","3700 O St NW, Washington, DC 20057, USA",38.9076089,-77.0722585
 "Tufts University, Medford, MA, USA","419 Boston Ave, Medford, MA 02155‎, USA",42.4074843,-71.1190232
-"University of North Carolina at Chapel Hill, Chapel Hill, NC, USA","Chapel Hill, NC, USA",35.904912200000005,-79.04691340000001
-"Case Western Reserve University, Cleveland, OH, USA","10900 Euclid Ave, Cleveland, OH 44106, USA",41.50434129999999,-81.6083838
-"Claremont rVicKenria College, Claremont, CA, USA","888 Columbia Ave, Claremont, CA 91711, USA",34.10177669999999,-117.7079219
-"Middlebury College, Middlebury, VT, USA","14 Old Chapel Rd, Middlebury, VT 05753, USA",44.00825950000001,-73.1773152
-"Smith College, Northampton, MA, USA","Northampton, MA 01063, USA",42.31809570000001,-72.63723409999999
+"University of North Carolina at Chapel Hill, Chapel Hill, NC, USA","Chapel Hill, NC, USA",35.9049122,-79.0469134
+"Case Western Reserve University, Cleveland, OH, USA","10900 Euclid Ave, Cleveland, OH 44106, USA",41.5043413,-81.6083838
+"Claremont rVicKenria College, Claremont, CA, USA","888 Columbia Ave, Claremont, CA 91711, USA",34.1017767,-117.7079219
+"Middlebury College, Middlebury, VT, USA","14 Old Chapel Rd, Middlebury, VT 05753, USA",44.0082595,-73.1773152
+"Smith College, Northampton, MA, USA","Northampton, MA 01063, USA",42.3180957,-72.6372341
 "Carleton College, Northfield, MN, USA","1 North College Street, Northfield, MN 55057, USA",44.4613041,-93.1560839
-"Bowdoin College, Bnurkswick, ME, USA","255 Maine St, Brunswick, ME 04011, USA",43.9070109,-69.96523640000001
+"Bowdoin College, Bnurkswick, ME, USA","255 Maine St, Brunswick, ME 04011, USA",43.9070109,-69.9652364
 "University of California, Berkeley, Berkeley, CA, USA","Berkeley, CA, USA",37.8718992,-122.2585399
-"Boston University, Boston, MA, USA","Boston, MA 02215, USA",42.3504997,-71.10539909999999
+"Boston University, Boston, MA, USA","Boston, MA 02215, USA",42.3504997,-71.1053991
 "Haverford College, Haverford, PA, USA","370 Lancaster Ave, Haverford, PA 19041, USA",40.0066524,-75.305318
-"Purdue University West Lafayette, West Lafayette, IN, USA","610 Purdue Mall, West Lafayette, IN 47907, USA",40.4237054,-86.92119459999998
-"University of Miami, Coral Gables, FL, USA","1320 S Dixie Hwy, Coral Gables, FL 33146, USA",25.7191685,-80.27712530000001
-"Wesleyan University, Middletown, CT, USA","45 Wyllys Ave, Middletown, CT 06459, USA",41.5566104,-72.65690409999998
+"Purdue University West Lafayette, West Lafayette, IN, USA","610 Purdue Mall, West Lafayette, IN 47907, USA",40.4237054,-86.9211946
+"University of Miami, Coral Gables, FL, USA","1320 S Dixie Hwy, Coral Gables, FL 33146, USA",25.7191685,-80.2771253
+"Wesleyan University, Middletown, CT, USA","45 Wyllys Ave, Middletown, CT 06459, USA",41.5566104,-72.6569041
 "University of California, Davis, Davis.. CA, USA","1 Shields Ave, Davis, CA 95616, USA",38.5382322,-121.7617125
 "University of California, San Diego, La Jolla, CA, USA","9500 Gilman Dr, La Jolla, CA 92093, USA",32.8800604,-117.2340135
 "University of Illinois at Urbana-Champaign, Champaign, IL, USA","Champaign, IL, USA",40.1019523,-88.2271615
-"Bryn Mawr College, Bryn Mawr, PA, USA","101 N Merion Ave, Bryn Mawr, PA 19010, USA",40.0281065,-75.31523409999998
-"Lehigh University, Bethlehem, PA, USA","27 Memorial Dr W, Bethlehem, PA 18015, USA",40.606908700000005,-75.37828320000001
+"Bryn Mawr College, Bryn Mawr, PA, USA","101 N Merion Ave, Bryn Mawr, PA 19010, USA",40.0281065,-75.3152341
+"Lehigh University, Bethlehem, PA, USA","27 Memorial Dr W, Bethlehem, PA 18015, USA",40.6069087,-75.3782832
 "University of Rochester, Rochester, NY, USA","Rochester, NY, USA",43.1305531,-77.6260033
 "Wake Forest University, Winston-Salem NC, USA","1834 Wake Forest Rd, Winston-Salem, NC 27109, USA",36.1352495,-80.2763425
-"Georgia Institute of Technology, Atlanta, GA, USA","North Ave NW, Atlanta, GA 30332, USA",33.7756178,-84.39628499999998
-"Davidson College, Davidson, NC, USA","405 N Main St, Davidson, NC 28035, USA",35.501731799999995,-80.84677930000002
-"Colgate University, Hamilton, NY, USA","13 Oak Dr, Hamilton, NY 13346, USA",42.8166152,-75.54017640000001
-"University of Texas at Austin, Austin, TX, USA","Austin, TX 78712, USA",30.2849185,-97.73405670000001
+"Georgia Institute of Technology, Atlanta, GA, USA","North Ave NW, Atlanta, GA 30332, USA",33.7756178,-84.396285
+"Davidson College, Davidson, NC, USA","405 N Main St, Davidson, NC 28035, USA",35.5017318,-80.8467793
+"Colgate University, Hamilton, NY, USA","13 Oak Dr, Hamilton, NY 13346, USA",42.8166152,-75.5401764
+"University of Texas at Austin, Austin, TX, USA","Austin, TX 78712, USA",30.2849185,-97.7340567
 "University of Virginia, Charlottesville, VA, USA","Charlottesville, VA, USA",38.0335529,-78.5079772
-"University of Florida, Gainesville, FL, USA","Gainesville, FL 32611, USA",29.643632500000002,-82.3549302
+"University of Florida, Gainesville, FL, USA","Gainesville, FL 32611, USA",29.6436325,-82.3549302
 "Bucknell University, Lewisburg, PA, USA","701 Moore Ave, Lewisburg, PA 17837, USA",40.9546869,-76.8835514
-"Boston College, Chestnut Hill„ MA, USA","Chestnut Hill, MA 02467, USA",42.3355488,-71.16849450000002
-"Hamilton College, Clinton, NY, USA","198 College Hill Rd, Clinton, NY 13323, USA",43.0525874,-75.40504370000001
-"University of Richmond, University of Richmond, VA, USA","28 Westhampton Way, Richmond, VA 23173, USA",37.5758681,-77.54097440000001
-"Oberlin College, Oberlin, OH, USA","173 W Lorain St, Oberlin, OH 44074, USA",41.29348299999999,-82.2236001
-"George Washington University, Washington, DC, USA","2121 I St NW, Washington, DC 20052, USA",38.8997145,-77.04859920000001
-"Colby College, Waterville, ME, USA","4000 Mayflower Hill Dr, Waterville, ME 04901, USA",44.5638691,-69.66263620000001
-"Northeastern University, Boston, MA, USA","360 Huntington Ave, Boston, MA 02115, USA",42.339806700000004,-71.08917170000001
+"Boston College, Chestnut Hill„ MA, USA","Chestnut Hill, MA 02467, USA",42.3355488,-71.1684945
+"Hamilton College, Clinton, NY, USA","198 College Hill Rd, Clinton, NY 13323, USA",43.0525874,-75.4050437
+"University of Richmond, University of Richmond, VA, USA","28 Westhampton Way, Richmond, VA 23173, USA",37.5758681,-77.5409744
+"Oberlin College, Oberlin, OH, USA","173 W Lorain St, Oberlin, OH 44074, USA",41.293483,-82.2236001
+"George Washington University, Washington, DC, USA","2121 I St NW, Washington, DC 20052, USA",38.8997145,-77.0485992
+"Colby College, Waterville, ME, USA","4000 Mayflower Hill Dr, Waterville, ME 04901, USA",44.5638691,-69.6626362
+"Northeastern University, Boston, MA, USA","360 Huntington Ave, Boston, MA 02115, USA",42.3398067,-71.0891717
 "Bates College, Lewiston, ME, USA","2 Andrews Rd, Lewiston, ME 04240, USA",44.1057216,-70.2021865
 "Vassar College, Poughkeepsie, NY, USA","124 Raymond Ave, Poughkeepsie, NY 12604, USA",41.6867992,-73.8957002
-"Ohio State University, Columbus, OH, USA","Columbus, OH 43210, USA",40.014190500000005,-83.03091429999998
-"Lafayette College, Easton, PA, USA","730 High St, Easton, PA 18042, USA",40.69862020000001,-75.2087298
+"Ohio State University, Columbus, OH, USA","Columbus, OH 43210, USA",40.0141905,-83.0309143
+"Lafayette College, Easton, PA, USA","730 High St, Easton, PA 18042, USA",40.6986202,-75.2087298
 "University of Wisconsin-Madison, Madison, WI, USA","Madison, WI 53706, USA",43.076592,-89.4124875
 "Tulane University, New Orleans.. LA, USA","6823 St Charles Ave, New Orleans, LA 70118, USA",29.9403477,-90.1207279
 "Washington and Lee University, Lexington, VA, USA","204 W Washington St, Lexington, VA 24450, USA",37.7904861,-79.4449563
 "Barnard College, New York NY, USA","3009 Broadway, New York, NY 10027, USA",40.8090974,-73.9639632
-"Grinnell College, Grinnell, IA, USA","1115 8th Ave, Grinnell, IA 50112, USA",41.74905709999999,-92.7201302
+"Grinnell College, Grinnell, IA, USA","1115 8th Ave, Grinnell, IA 50112, USA",41.7490571,-92.7201302
 "University of Pittsburgh-Pittsburgh campus, Pittsburgh, PA, USA","4200 Fifth Ave, Pittsburgh, PA 15260, USA",40.4443533,-79.960835
 "Mount Holyoke College, South Hadley, MA, USA","50 College St, South Hadley, MA 01075, USA",42.2532535,-72.5761394
-"Macalester College, Saint Paul, MN, USA","1600 Grand Ave, St Paul, MN 55105, USA",44.9397631,-93.16872940000002
-"Trinity University, San Antonio, TX, USA","1 Trinity Pl, San Antonio, TX 78212, USA",29.461844399999997,-98.4831622
+"Macalester College, Saint Paul, MN, USA","1600 Grand Ave, St Paul, MN 55105, USA",44.9397631,-93.1687294
+"Trinity University, San Antonio, TX, USA","1 Trinity Pl, San Antonio, TX 78212, USA",29.4618444,-98.4831622
 "Michigan State University, East Lansing, MI, USA","220 Trowbridge Rd, East Lansing, MI 48824, USA",42.701848,-84.4821719
 "Southern Methodist University, Dallas, TX, USA","Dallas, TX 75205, USA",32.8412178,-96.7845175
 "University of Maryland, College Park, College Park, MD, USA","College Park, MD 20742, USA",38.9869183,-76.9425543
-"Worcester Polytechnic Institute, Worcester, MA, USA","100 Institute Rd, Worcester, MA 01609, USA",42.27463729999999,-71.80633900000001
+"Worcester Polytechnic Institute, Worcester, MA, USA","100 Institute Rd, Worcester, MA 01609, USA",42.2746373,-71.806339
 "Denison University, Granville, OH, USA","100 W College St, Granville, OH 43023, USA",40.074025,-82.522643
-"Drexel University, Philadelphia, PA, USA","3141 Chestnut St, Philadelphia, PA 19104, USA",39.9566127,-75.18994409999998
+"Drexel University, Philadelphia, PA, USA","3141 Chestnut St, Philadelphia, PA 19104, USA",39.9566127,-75.1899441
 "College of the Holy Cross, Worcester, MA, USA","1 College St, Worcester, MA 01610, USA",42.2392391,-71.8079608
-"Rensselaer Polytechnic Institute, Troy, NY, USA","110 8th St, Troy, NY 12180, USA",42.730171999999996,-73.67880300000002
+"Rensselaer Polytechnic Institute, Troy, NY, USA","110 8th St, Troy, NY 12180, USA",42.730172,-73.678803
 "Brandeis University, Waltham, MA, USA","415 South St, Waltham, MA 02453, USA",42.364989,-71.258663
-"Franklin & Marshall College, Lancaster, PA, USA","Franklin, TN, USA",35.9250637,-86.86888990000001
-"University of Washington-Seattle, Seattle, WA, USA","Seattle, WA 98195, USA",47.65533509999999,-122.3035199
-"Occidental College, Los Angeles, CA, USA","1600 Campus Rd, Los Angeles, CA 90041, USA",34.1273615,-118.21050349999999
-"Union College, Schenectady, NY, USA","807 Union St, Schenectady, NY 12308, USA",42.817017,-73.92980530000001
-"Scripps College, Claremont, CA, USA","1030 N Columbia Ave, Claremont, CA 91711, USA",34.1039348,-117.71021280000001
-"Texas A&M University-College Station, College Station, TX, USA","Texas Ave, College Station, TX 77840, USA",30.624139000000003,-96.3304465
-"Trinity College, Hartford, CT, USA","300 Summit St, Hartford, CT 06106, USA",41.747933200000006,-72.69033449999998
-"University of Denver, Denver CO, USA","2199 S University Blvd, Denver, CO 80208, USA",39.6766174,-104.96189650000001
-"Kenyon College, Gambier OH, USA","103 College Rd, Gambier, OH 43022, USA",40.371896500000005,-82.39830789999998
-"Bentley University, Waltham, MA, USA","175 Forest St, Waltham, MA 02452, USA",42.3856989,-71.22167999999998
-"University of California., Santa Barbara, Santa Barbara, CA, USA","Santa Barbara, CA 93106, USA",34.413962899999994,-119.848947
-"William & Mary, Williamsburg, VA, USA","710 William Carey Pkwy, Hattiesburg, MS 39401, USA",31.303949100000004,-89.29230279999999
-"Spelman College, Atlanta, GA, USA","350 Spelman Ln, Atlanta, GA 30314, USA",33.7463597,-84.41229340000002
+"Franklin & Marshall College, Lancaster, PA, USA","415 Harrisburg Ave, Lancaster, PA 17603",40.0475,-76.3179
+"University of Washington-Seattle, Seattle, WA, USA","Seattle, WA 98195, USA",47.6553351,-122.3035199
+"Occidental College, Los Angeles, CA, USA","1600 Campus Rd, Los Angeles, CA 90041, USA",34.1273615,-118.2105035
+"Union College, Schenectady, NY, USA","807 Union St, Schenectady, NY 12308, USA",42.817017,-73.9298053
+"Scripps College, Claremont, CA, USA","1030 N Columbia Ave, Claremont, CA 91711, USA",34.1039348,-117.7102128
+"Texas A&M University-College Station, College Station, TX, USA","Texas Ave, College Station, TX 77840, USA",30.624139,-96.3304465
+"Trinity College, Hartford, CT, USA","300 Summit St, Hartford, CT 06106, USA",41.7479332,-72.6903345
+"University of Denver, Denver CO, USA","2199 S University Blvd, Denver, CO 80208, USA",39.6766174,-104.9618965
+"Kenyon College, Gambier OH, USA","103 College Rd, Gambier, OH 43022, USA",40.3718965,-82.3983079
+"Bentley University, Waltham, MA, USA","175 Forest St, Waltham, MA 02452, USA",42.3856989,-71.22168
+"University of California., Santa Barbara, Santa Barbara, CA, USA","Santa Barbara, CA 93106, USA",34.4139629,-119.848947
+"William & Mary, Williamsburg, VA, USA","200 Stadium Dr, Williamsburg, VA 23185",37.2717,-76.7134
+"Spelman College, Atlanta, GA, USA","350 Spelman Ln, Atlanta, GA 30314, USA",33.7463597,-84.4122934
 "Connecticut College, New London, CT, USA","270 Mohegan Avenue, New London, CT 06320, USA",41.3786877,-72.1045869
 "Rhode Island Schaal of Design, Providence, RI, USA","2 College St, Providence, RI 02903, USA",41.8259947,-71.4074596
 "Howard University, Washington, DC, USA","2400 Sixth St NW, Washington, DC 20059, USA",38.9226843,-77.0194377
 "Saint Louis University, Saint Louis, MO, USA","1 N Grand Blvd, St. Louis, MO 63103, USA",38.6354598,-90.2338232
-"University crEConnecticut, Storrs, CT, USA","Storrs, CT 06269, USA",41.8077414,-72.25398050000001
-"The College of Wooster, Wooster OH, USA","1189 Beall Ave, Wooster, OH 44691, USA",40.811050099999996,-81.9336187
+"University crEConnecticut, Storrs, CT, USA","Storrs, CT 06269, USA",41.8077414,-72.2539805
+"The College of Wooster, Wooster OH, USA","1189 Beall Ave, Wooster, OH 44691, USA",40.8110501,-81.9336187
 "Syracuse University, Syracuse, NY, USA","Syracuse, NY, USA",43.0391534,-76.1351158
-"DePauw University, Greencastle, IN, USA","Administration Building, 313 S Locust St, Greencastle, IN 46135, USA",39.6393943,-86.86289459999998
+"DePauw University, Greencastle, IN, USA","Administration Building, 313 S Locust St, Greencastle, IN 46135, USA",39.6393943,-86.8628946
 "Gettysburg College, Gettysburg, PA, USA","300 N Washington St, Gettysburg, PA 17325, USA",39.8362073,-77.2375078
-"University of Illinois at Chicago, Chicago, IL, USA","1200 W Harrison St, Chicago, IL 60607, USA",41.87044969999999,-87.66748539999998
-"Rose-Hulman Institute of Technology, Terre Haute, IN, USA","5500 Wabash Ave, Terre Haute, IN 47803, USA",39.483062200000006,-87.32348239999997
-"Dickinson College, Carlisle, PA, USA","28 N College St, Carlisle, PA 17013, USA",40.202721399999994,-77.197232
+"University of Illinois at Chicago, Chicago, IL, USA","1200 W Harrison St, Chicago, IL 60607, USA",41.8704497,-87.6674854
+"Rose-Hulman Institute of Technology, Terre Haute, IN, USA","5500 Wabash Ave, Terre Haute, IN 47803, USA",39.4830622,-87.3234824
+"Dickinson College, Carlisle, PA, USA","28 N College St, Carlisle, PA 17013, USA",40.2027214,-77.197232
 "Brigham Young University-Provo, Provo, UT, USA","Provo, UT 84602, USA",40.2518435,-111.6493156
 "Pitzer College, Claremont, CA, USA","1050 N Mills Ave, Claremont, CA 91711, USA",34.1046624,-117.7047193
 "University of Minnesota Twin Cities, Minneapolis, MN, USA","Minneapolis, MN 55455, USA",44.97399,-93.2277285
-"Virginia Polytechnic Institute and State University, Blacksburg, VA, USA","Blacksburg, VA 24061, USA",37.22838429999999,-80.42341669999998
-"Babson College, Wellesley, MA, USA","231 Forest St, Babson Park, MA 02457, USA",42.2993708,-71.26599509999998
+"Virginia Polytechnic Institute and State University, Blacksburg, VA, USA","Blacksburg, VA 24061, USA",37.2283843,-80.4234167
+"Babson College, Wellesley, MA, USA","231 Forest St, Babson Park, MA 02457, USA",42.2993708,-71.2659951
 "Illinois Institute of Technology, Chicago, IL, USA","3300 S Federal St, Chicago, IL 60616, USA",41.8348731,-87.6270059
-"Pennsylvania State University, University Park, PA, USA","Old Main, State College, PA 16801, USA",40.7982133,-77.85990840000001
-"Seattle University, Seattle, WA, USA","901 12th Ave, Seattle, WA 98122, USA",47.609228200000004,-122.31771359999999
-"Loyola Marymount University, Los Angeles, CA, USA","1 Loyola Marymount University Dr, Los Angeles, CA 90045, USA",33.96981829999999,-118.41849690000001
+"Pennsylvania State University, University Park, PA, USA","Old Main, State College, PA 16801, USA",40.7982133,-77.8599084
+"Seattle University, Seattle, WA, USA","901 12th Ave, Seattle, WA 98122, USA",47.6092282,-122.3177136
+"Loyola Marymount University, Los Angeles, CA, USA","1 Loyola Marymount University Dr, Los Angeles, CA 90045, USA",33.9698183,-118.4184969
 "Allegheny College, Meadville, PA, USA","520 N Main St, Meadville, PA 16335, USA",41.649349,-80.1449494
 "Furman University, Greenville, SC, USA","3300 Poinsett Hwy, Greenville, SC 29613, USA",34.9237,-82.4382693
 "Stevens Institute of Technology, Hoboken, NJ, USA","1 Castle Point Terrace, Hoboken, NJ 07030, USA",40.7448376,-74.025683
-"Reed College, Portland, OR, USA","3203 SE Woodstock Blvd, Portland, OR 97202, USA",45.4809782,-122.63037240000001
-"Rochester Institute of Technology, Rochester, NY, USA","1 Lomb Memorial Dr, Rochester, NY 14623, USA",43.08610170000001,-77.6705143
+"Reed College, Portland, OR, USA","3203 SE Woodstock Blvd, Portland, OR 97202, USA",45.4809782,-122.6303724
+"Rochester Institute of Technology, Rochester, NY, USA","1 Lomb Memorial Dr, Rochester, NY 14623, USA",43.0861017,-77.6705143
 "Creighton University, Omaha, NE, USA","2500 California Plaza, Omaha, NE 68178, USA",41.2653105,-95.9471919
-"Art Center College of Design, Pasadena, CA, USA","1700 Lida St #2319, Pasadena, CA 91103, USA",34.1688713,-118.18515690000001
-"Willamette University, Salem, OR, USA","900 State St, Salem, OR 97301, USA",44.935970899999994,-123.0318598
+"Art Center College of Design, Pasadena, CA, USA","1700 Lida St #2319, Pasadena, CA 91103, USA",34.1688713,-118.1851569
+"Willamette University, Salem, OR, USA","900 State St, Salem, OR 97301, USA",44.9359709,-123.0318598
 "North Carolina State University at Raleigh, Raleigh, NC, USA","Raleigh, NC 27695, USA",35.7846633,-78.6820946
 "Indiana University Bloomington, Bloomington, IN, USA","107 S Indiana Ave, Bloomington, IN 47405, USA",39.1761275,-86.5130583
-"University of California, Irvine, Irvine, CA, USA","Irvine, CA 92697, USA",33.640495200000004,-117.8442962
-"Hobart and William Smith Colleges, Geneva, NY, USA","300 Pulteney St, Geneva, NY 14456, USA",42.8591531,-76.98448680000001
-"Illinois Wesleyan University, Bloomington, IL, USA","1312 Park St, Bloomington, IL 61701, USA",40.490889200000005,-88.9906541
-"Arizona State University, Tempe, AZ, USA","Tempe, AZ 85281, USA",33.424239899999996,-111.9280527
-"Ohio Northern University, Ada, OH, USA","525 S Main St, Ada, OH 45810, USA",40.7663058,-83.83249909999998
+"University of California, Irvine, Irvine, CA, USA","Irvine, CA 92697, USA",33.6404952,-117.8442962
+"Hobart and William Smith Colleges, Geneva, NY, USA","300 Pulteney St, Geneva, NY 14456, USA",42.8591531,-76.9844868
+"Illinois Wesleyan University, Bloomington, IL, USA","1312 Park St, Bloomington, IL 61701, USA",40.4908892,-88.9906541
+"Arizona State University, Tempe, AZ, USA","Tempe, AZ 85281, USA",33.4242399,-111.9280527
+"Ohio Northern University, Ada, OH, USA","525 S Main St, Ada, OH 45810, USA",40.7663058,-83.8324991
 "Skidmore College, Saratoga Springs, NY, USA","815 N Broadway, Saratoga Springs, NY 12866, USA",43.0972759,-73.7841811
-"Elon University, Elon, NC, USA","100 Campus Drive, Elon, NC 27244, USA",36.1048749,-79.50388819999998
+"Elon University, Elon, NC, USA","100 Campus Drive, Elon, NC 27244, USA",36.1048749,-79.5038882
 "University of Iowa, Iowa City, IA, USA","Iowa City, IA 52242, USA",41.6626963,-91.5548998
-"Rutgers University-New Brunswick, New Brunswick NJ, USA","New Brunswick, NJ, USA",40.500818599999995,-74.44739910000001
-"Stony Brook University, Stony Brook, NY, USA","100 Nicolls Rd, Stony Brook, NY 11794, USA",40.9123761,-73.12338890000001
-"University of Delaware, Newark, DE, USA","Newark, DE 19716, USA",39.67795039999999,-75.75061140000001
+"Rutgers University-New Brunswick, New Brunswick NJ, USA","New Brunswick, NJ, USA",40.5008186,-74.4473991
+"Stony Brook University, Stony Brook, NY, USA","100 Nicolls Rd, Stony Brook, NY 11794, USA",40.9123761,-73.1233889
+"University of Delaware, Newark, DE, USA","Newark, DE 19716, USA",39.6779504,-75.7506114
 "Centre College, Danville, KY, USA","600 W Walnut St, Danville, KY 40422, USA",37.6457214,-84.782037
 "Gustavus Adolphus College, Saint Peter, MN, USA","800 College Ave, St Peter, MN 56082, USA",44.3221619,-93.9687771
-"Clarkson University, Potsdam, NY, USA","8 Clarkson Ave, Potsdam, NY 13699, USA",44.66376109999999,-74.998544
-"Kalamazoo College, Kalamazoo, MI, USA","1200 Academy St, Kalamazoo, MI 49006, USA",42.290034999999996,-85.598145
-"St Olaf College, Northfield, MN, USA","1520 St Olaf Ave, Northfield, MN 55057, USA",44.46176810000001,-93.1828167
+"Clarkson University, Potsdam, NY, USA","8 Clarkson Ave, Potsdam, NY 13699, USA",44.6637611,-74.998544
+"Kalamazoo College, Kalamazoo, MI, USA","1200 Academy St, Kalamazoo, MI 49006, USA",42.290035,-85.598145
+"St Olaf College, Northfield, MN, USA","1520 St Olaf Ave, Northfield, MN 55057, USA",44.4617681,-93.1828167
 "University of Massachusetts Amherst, Amherst, MA, USA","Amherst, MA 01003, USA",42.3911569,-72.5267121
-"Michigan Technological University, Houghton, MI, USA","1400 Townsend Dr, Houghton, MI 49931, USA",47.114906500000004,-88.54530729999998
+"Michigan Technological University, Houghton, MI, USA","1400 Townsend Dr, Houghton, MI 49931, USA",47.1149065,-88.5453073
 "Pepperdine University, Malibu. CA, USA","24255 Pacific Coast Hwy, Malibu, CA 90263, USA",34.0414045,-118.7095814
 "Stonehill College, Eastc [-_, MA, USA","320 Washington St, North Easton, MA 02357, USA",42.0590153,-71.0806276
 "Marquette University, Milwaukee, WI, USA","1250 W Wisconsin Ave, Milwaukee, WI 53233, USA",43.0382216,-87.9297546
-"St Lawrence University, Canton, NY, USA","23 Romoda Dr, Canton, NY 13617, USA",44.5892119,-75.16088140000001
-"Temple University, Philadelphia, PA, USA","1801 N Broad St, Philadelphia, PA 19122, USA",39.981193499999996,-75.1553512
-"Rhodes College, Memphis, TN, USA","2000 North Pkwy, Memphis, TN 38112, USA",35.1550839,-89.98928719999998
-"University of Puget Sound, Tacoma, WA, USA","1500 N Warner St, Tacoma, WA 98416, USA",47.261764,-122.48145500000001
+"St Lawrence University, Canton, NY, USA","23 Romoda Dr, Canton, NY 13617, USA",44.5892119,-75.1608814
+"Temple University, Philadelphia, PA, USA","1801 N Broad St, Philadelphia, PA 19122, USA",39.9811935,-75.1553512
+"Rhodes College, Memphis, TN, USA","2000 North Pkwy, Memphis, TN 38112, USA",35.1550839,-89.9892872
+"University of Puget Sound, Tacoma, WA, USA","1500 N Warner St, Tacoma, WA 98416, USA",47.261764,-122.481455
 "Bradley University, Peoria, IL, USA","1501 W Bradley Ave, Peoria, IL 61625, USA",40.6977743,-89.6153484
-"University of San Diego, San Diego, CA, USA","5998 Alcala Park, San Diego, CA 92110, USA",32.771916999999995,-117.1882064
-"Linfield College - McMinnville campus, McMinnville, OR, USA","900 SE Baker St, McMinnville, OR 97128, USA",45.20060600000001,-123.199224
-"Whitman College, Walla Walla, WA, USA","345 Boyer Ave, Walla Walla, WA 99362, USA",46.07057990000001,-118.33063510000001
-"Santa Clara University, Santa Clara, CA, USA","500 El Camino Real, Santa Clara, CA 95053, USA",37.34964179999999,-121.9389875
+"University of San Diego, San Diego, CA, USA","5998 Alcala Park, San Diego, CA 92110, USA",32.771917,-117.1882064
+"Linfield College - McMinnville campus, McMinnville, OR, USA","900 SE Baker St, McMinnville, OR 97128, USA",45.200606,-123.199224
+"Whitman College, Walla Walla, WA, USA","345 Boyer Ave, Walla Walla, WA 99362, USA",46.0705799,-118.3306351
+"Santa Clara University, Santa Clara, CA, USA","500 El Camino Real, Santa Clara, CA 95053, USA",37.3496418,-121.9389875
 "Simmons College, Boston, MA, USA","94 Pilgrim Rd, Boston, MA 02215, USA",42.3411751,-71.1062766
 "Berea College, Berea, KY, USA","209 Chestnut St, Berea, KY 40403, USA",37.5695232,-84.2932355
-"University of Tulsa, Tulsa, OK, USA","800 S Tucker Dr, Tulsa, OK 74104, USA",36.151987899999995,-95.946
-"Susquehanna University, Selinsgrove, PA, USA","514 University Ave, Selinsgrove, PA 17870, USA",40.797326700000006,-76.8744803
-"Washington & Jefferson College, Washington, PA, USA","Washington, USA",47.751074100000004,-120.7401385
-"University of Colorado Doulder, Boulder, CO, USA","Boulder, CO 80309, USA",40.00758099999999,-105.26594170000001
+"University of Tulsa, Tulsa, OK, USA","800 S Tucker Dr, Tulsa, OK 74104, USA",36.1519879,-95.946
+"Susquehanna University, Selinsgrove, PA, USA","514 University Ave, Selinsgrove, PA 17870, USA",40.7973267,-76.8744803
+"Washington & Jefferson College, Washington, PA, USA","60 S Lincoln St, Washington, PA 15301",40.1704,-80.2387
+"University of Colorado Doulder, Boulder, CO, USA","Boulder, CO 80309, USA",40.007581,-105.2659417
 "Ohio Wesleyan University, Delaware, OH, USA","40 Rowland Avenue, Delaware, OH 43015, USA",40.2966234,-83.0700693
-"Butler University, Indianapolis, IN, USA","4600 Sunset Ave, Indianapolis, IN 46208, USA",39.8411235,-86.17119079999998
-"Chapman University, Orange, CA, USA","1 University Dr, Orange, CA 92866, USA",33.793347600000004,-117.85135030000001
-"Sewanee-The University of the South, Sewanee, TN, USA","735 University Ave, Sewanee, TN 37383, USA",35.20518,-85.91766059999998
-"Lawrence University, Appleton, WI, USA","711 E Boldt Way, Appleton, WI 54911, USA",44.2615759,-88.39809989999998
+"Butler University, Indianapolis, IN, USA","4600 Sunset Ave, Indianapolis, IN 46208, USA",39.8411235,-86.1711908
+"Chapman University, Orange, CA, USA","1 University Dr, Orange, CA 92866, USA",33.7933476,-117.8513503
+"Sewanee-The University of the South, Sewanee, TN, USA","735 University Ave, Sewanee, TN 37383, USA",35.20518,-85.9176606
+"Lawrence University, Appleton, WI, USA","711 E Boldt Way, Appleton, WI 54911, USA",44.2615759,-88.3980999
 "Texas Christian University, Fort Worth, TX, USA","2800 S University Dr, Fort Worth, TX 76129, USA",32.70953,-97.362795
-"Knox College, Galesburg, IL, USA","2 E South St, Galesburg, IL 61401, USA",40.941889200000006,-90.37186729999999
+"Knox College, Galesburg, IL, USA","2 E South St, Galesburg, IL 61401, USA",40.9418892,-90.3718673
 "Wo-Fford College, Spartanburg, SC, USA","429 N Church St, Spartanburg, SC 29303, USA",34.9580657,-81.9344902
 "University of Arizona, Tucson, AZ, USA","Tucson, AZ 85721, USA",32.2318851,-110.9501094
 "Loyola University Maryland, Baltimore, MD, USA","Loyola University Maryland : Alumni Memorial Chapel, 4501 N Charles St, Baltimore, MD 21210, USA",39.3476737,-76.6172375
 "Drake University, Des Moines, IA, USA","2507 University Ave, Des Moines, IA 50311, USA",41.6029128,-93.6552984
 "Missouri University of Science and Technology, Rolla, MO, USA","1870 Miner Cir, Rolla, MO 65409, USA",37.9537196,-91.7751496
 "Bryant University, Smithfield, RI, USA","1150 Douglas Pike, Smithfield, RI 02917, USA",41.921192,-71.537882
-"Clemson University, Clemson, SC, USA","Clemson, SC 29634, USA",34.6760942,-82.83641479999999
-"University of Detroit Mercy, Detroit, MI, USA","4001 W McNichols Rd, Detroit, MI 48221, USA",42.414062,-83.13790290000001
-"Baylor University, Waco, TX, USA","1301 S University Parks Dr, Waco, TX 76706, USA",31.549840999999997,-97.1143146
+"Clemson University, Clemson, SC, USA","Clemson, SC 29634, USA",34.6760942,-82.8364148
+"University of Detroit Mercy, Detroit, MI, USA","4001 W McNichols Rd, Detroit, MI 48221, USA",42.414062,-83.1379029
+"Baylor University, Waco, TX, USA","1301 S University Parks Dr, Waco, TX 76706, USA",31.549841,-97.1143146
 "Ursinus College, Collegeville, PA, USA","601 E Main St, Collegeville, PA 19426, USA",40.1915099,-75.4558588
 "Colorado School of Mines, Golden, CO, USA","1500 Illinois St, Golden, CO 80401, USA",39.7510136,-105.2225705
-"Hampton University, Hampton, VA, USA","100 E Queen St, Hampton, VA 23668, USA",37.02283920000001,-76.3343603
-"Loyola University Chicago, Chicago, IL, USA","1032 W Sheridan Rd, Chicago, IL 60660, USA",41.998996999999996,-87.6581921
+"Hampton University, Hampton, VA, USA","100 E Queen St, Hampton, VA 23668, USA",37.0228392,-76.3343603
+"Loyola University Chicago, Chicago, IL, USA","1032 W Sheridan Rd, Chicago, IL 60660, USA",41.998997,-87.6581921
 "Virginia Military Institute, Lexington, VA, USA","319 Letcher Ave, Lexington, VA 24450, USA",37.788981,-79.43946
-"Embry-Riddle Aeronautical University, Daytona Beach, Daytona Reach, FL, USA","600 S Clyde Morris Blvd, Daytona Beach, FL 32114, USA",29.191616999999997,-81.05001879999998
-"SUNY Binghamton University, Vestal, NY, USA","4400 Vestal Parkway East, Binghamton, NY 13902, USA",42.089355299999994,-75.96970490000001
+"Embry-Riddle Aeronautical University, Daytona Beach, Daytona Reach, FL, USA","600 S Clyde Morris Blvd, Daytona Beach, FL 32114, USA",29.191617,-81.0500188
+"SUNY Binghamton University, Vestal, NY, USA","4400 Vestal Parkway East, Binghamton, NY 13902, USA",42.0893553,-75.9697049
 "Rutgers University-Newark, Newark, NJ, USA","195 University Ave, Newark, NJ 07102, USA",40.741187,-74.1753095
 "Saint Mary's College, Notre Dame, IN, USA","149 Le Mans Hall, Notre Dame, IN 46556, United States",41.707304,-86.256745
 "American University, Washington, DC, USA","4400 Massachusetts Ave NW, Washington, DC 20016, USA",38.9399652,-77.0880213
-"Catholic University of America, Washington, DC, USA","620 Michigan Ave NE, Washington, DC 20064, USA",38.9368811,-76.99869199999998
-"Muhlenberg College, Allentown, PA, USA","2400 W Chew St, Allentown, PA 18104, USA",40.595949700000006,-75.5101987
-"Quinnipiac University, Hamden, CT, USA","275 Mt Carmel Ave, Hamden, CT 06518, USA",41.419174700000006,-72.89268829999999
-"Saint Mary's College of Cali-Fomia, Moraga, CA, USA","1928 St Marys Rd, Moraga, CA 94575, USA",37.8413472,-122.11013529999998
+"Catholic University of America, Washington, DC, USA","620 Michigan Ave NE, Washington, DC 20064, USA",38.9368811,-76.998692
+"Muhlenberg College, Allentown, PA, USA","2400 W Chew St, Allentown, PA 18104, USA",40.5959497,-75.5101987
+"Quinnipiac University, Hamden, CT, USA","275 Mt Carmel Ave, Hamden, CT 06518, USA",41.4191747,-72.8926883
+"Saint Mary's College of Cali-Fomia, Moraga, CA, USA","1928 St Marys Rd, Moraga, CA 94575, USA",37.8413472,-122.1101353
 "Beloit College, Beloit WI, USA","700 College St, Beloit, WI 53511, USA",42.5030333,-89.0309048
-"Drew University, Madison, NJ, USA","36 Madison Ave, Madison, NJ 07940, USA",40.76056699999999,-74.4269765
-"Florida Institute of Technology, Melbourne, FL, USA","150 W University Blvd, Melbourne, FL 32901, USA",28.064688800000003,-80.62302199999998
+"Drew University, Madison, NJ, USA","36 Madison Ave, Madison, NJ 07940, USA",40.760567,-74.4269765
+"Florida Institute of Technology, Melbourne, FL, USA","150 W University Blvd, Melbourne, FL 32901, USA",28.0646888,-80.623022
 "Fairfield University, Fairfield, CT, USA","1073 N Benson Rd, Fairfield, CT 06824, USA",41.1587639,-73.2573625
-"University of Scranton, Scranton, PA, USA","800 Linden St, Scranton, PA 18510, USA",41.40554119999999,-75.65697840000001
-"Lake Forest College, Lake Forest, IL, USA","555 N Sheridan Rd, Lake Forest, IL 60045, USA",42.249058000000005,-87.828913
-"Cornell College, Mount Vernon, IA, USA","600 1st St, Mt Vernon, IA 52314, USA",41.92695459999999,-91.4253502
+"University of Scranton, Scranton, PA, USA","800 Linden St, Scranton, PA 18510, USA",41.4055412,-75.6569784
+"Lake Forest College, Lake Forest, IL, USA","555 N Sheridan Rd, Lake Forest, IL 60045, USA",42.249058,-87.828913
+"Cornell College, Mount Vernon, IA, USA","600 1st St, Mt Vernon, IA 52314, USA",41.9269546,-91.4253502
 "Saint John's University, Collegeville, MN, USA","2850 Abbey Plaza, Collegeville, MN 56321, USA",45.5813035,-94.3942882
-"University of the Sciences, Philadelphia, PA, USA","600 S 43rd St, Philadelphia, PA 19104, USA",39.9468299,-75.20709790000001
-"Xavier University, Cincinnati, OH, USA","3800 Victory Pkwy, Cincinnati, OH 45207, USA",39.149364399999996,-84.47451190000001
-"Otis College of Art and Design, Los Angeles, CA, USA","9045 Lincoln Blvd, Los Angeles, CA 90045, USA",33.956322899999996,-118.41740559999998
-"Mercer University, Macon, GA, USA","1501 Mercer University Dr, Macon, GA 31207, USA",32.8287784,-83.64963809999998
-"University of San Francisco, San Francisco, CA, USA","2130 Fulton St, San Francisco, CA 94117, USA",37.7766466,-122.45068300000001
+"University of the Sciences, Philadelphia, PA, USA","600 S 43rd St, Philadelphia, PA 19104, USA",39.9468299,-75.2070979
+"Xavier University, Cincinnati, OH, USA","3800 Victory Pkwy, Cincinnati, OH 45207, USA",39.1493644,-84.4745119
+"Otis College of Art and Design, Los Angeles, CA, USA","9045 Lincoln Blvd, Los Angeles, CA 90045, USA",33.9563229,-118.4174056
+"Mercer University, Macon, GA, USA","1501 Mercer University Dr, Macon, GA 31207, USA",32.8287784,-83.6496381
+"University of San Francisco, San Francisco, CA, USA","2130 Fulton St, San Francisco, CA 94117, USA",37.7766466,-122.450683
 "University of Dayton, Dayton, OH, USA","300 College Park, Dayton, OH 45469, USA",39.739795,-84.1816922
-"St Mary's College of Maryland, St Mary's City, MD, USA","47645 College Dr, St Marys City, MD 20686, USA",38.1909255,-76.42903129999998
-"Samford University, Birmingham, AL, USA","800 Lakeshore Dr, Homewood, AL 35209, USA",33.4647494,-86.79363099999998
-"Saint Anselm College, Manchester, NH, USA","100 St Anselm Dr, Manchester, NH 03102, USA",42.9874723,-71.50723070000001
-"Washington State University, Pullman, WA, USA","Pullman, WA, USA",46.731922499999996,-117.15421210000001
+"St Mary's College of Maryland, St Mary's City, MD, USA","47645 College Dr, St Marys City, MD 20686, USA",38.1909255,-76.4290313
+"Samford University, Birmingham, AL, USA","800 Lakeshore Dr, Homewood, AL 35209, USA",33.4647494,-86.793631
+"Saint Anselm College, Manchester, NH, USA","100 St Anselm Dr, Manchester, NH 03102, USA",42.9874723,-71.5072307
+"Washington State University, Pullman, WA, USA","Pullman, WA, USA",46.7319225,-117.1542121
 "California Polytechnic State University, San Luis Obispo, San Luis Obispo, CA, USA","San Luis Obispo, CA 93407, USA",35.3050053,-120.6624942
-"Marietta College, Marietta, OH, USA","215 5th St, Marietta, OH 45750, USA",39.414545600000004,-81.4491067
-"Manhattan College, Riverdale, NY, USA","4513 Manhattan College Pkwy, Bronx, NY 10471, USA",40.88996229999999,-73.90106229999998
+"Marietta College, Marietta, OH, USA","215 5th St, Marietta, OH 45750, USA",39.4145456,-81.4491067
+"Manhattan College, Riverdale, NY, USA","4513 Manhattan College Pkwy, Bronx, NY 10471, USA",40.8899623,-73.9010623
 "College of Saint Benedict, Saint Joseph, MN, USA","37 College Ave S, St Joseph, MN 56374, USA",45.5603049,-94.3218942
-"Widener University, Chester, PA, USA","One University Pl, Chester, PA 19013, USA",39.863356200000005,-75.35667529999998
-"The College of New Jersey, Ewing, NJ, USA","2000 Pennington Rd, Ewing Township, NJ 08628, USA",40.2691421,-74.77743939999998
+"Widener University, Chester, PA, USA","One University Pl, Chester, PA 19013, USA",39.8633562,-75.3566753
+"The College of New Jersey, Ewing, NJ, USA","2000 Pennington Rd, Ewing Township, NJ 08628, USA",40.2691421,-74.7774394
 "Lewis & Clark College, Portland, OR, USA","Lewis County, WA, USA",46.6195461,-122.4554639
 "Gonzalo University, Spokane, WA, USA",,,
 "Wheaton College (Illinois), Wheaton, IL, USA","501 College Ave, Wheaton, IL 60187, USA",41.86833,-88.099622
 "Austin College, Sherman, TX, USA","900 N. Grand Ave, Sherman, TX 75090, United States",33.64626,-96.594854
 "Providence College, Providence, RI, USA","1 Cunningham Square, Providence, RI 02918, USA",41.8440925,-71.4381653
-"Clark University, Worcester, MA, USA","950 Main St, Worcester, MA 01610, USA",42.25234520000001,-71.8246703
+"Clark University, Worcester, MA, USA","950 Main St, Worcester, MA 01610, USA",42.2523452,-71.8246703
 "University of Colorado Denver, Denver, CO, USA","1201 Larimer St, Denver, CO 80204, USA",39.7463895,-105.0023325
 "Hope College, Holland, MI, USA","141 E 12th St, Holland, MI 49423, USA",42.7871797,-86.1023574
 "Luther College, Decorah, IA, USA","700 College Dr, Decorah, IA 52101, USA",43.311063,-91.8062533
-"Elizabethtown College, Elizabethtown, PA, USA","1 Alpha Dr, Elizabethtown, PA 17022, USA",40.150325099999996,-76.589792
-"Hanover College, Hanover, IN, USA","484 Ball Dr, Hanover, IN 47243, USA",38.719250200000005,-85.46236809999999
+"Elizabethtown College, Elizabethtown, PA, USA","1 Alpha Dr, Elizabethtown, PA 17022, USA",40.1503251,-76.589792
+"Hanover College, Hanover, IN, USA","484 Ball Dr, Hanover, IN 47243, USA",38.7192502,-85.4623681
 "Augustana College (Illinois), Rock Island, IL, USA","639 38th St, Rock Island, IL 61201, USA",41.5051053,-90.5507098
 "Albion College, Albion, MI, USA","611 E Porter St, Albion, MI 49224, USA",42.2440064,-84.7451775
 "University of Vermont, Burlington, VT, USA","Burlington, VT 05405, USA",44.4778528,-73.1964637
-"Westminster College (Pennsylvania), New Wilmington, PA, USA","319 S Market St, New Wilmington, PA 16172, USA",41.119859000000005,-80.332286
+"Westminster College (Pennsylvania), New Wilmington, PA, USA","319 S Market St, New Wilmington, PA 16172, USA",41.119859,-80.332286
 "Duquesne University, Pittsburgh, PA, USA","600 Forbes Ave, Pittsburgh, PA 15282, USA",40.4372949,-79.9901728
-"Dominican University of California, San Rafael, CA, USA","50 Acacia Ave, San Rafael, CA 94901, USA",37.979865600000004,-122.51298870000001
+"Dominican University of California, San Rafael, CA, USA","50 Acacia Ave, San Rafael, CA 94901, USA",37.9798656,-122.5129887
 "Rollins College, Winter Park, FL, USA","1000 Holt Ave, Winter Park, FL 32789, USA",28.592242,-81.348326
-"Embry-Riddle Aeronautical University, Prescott, Prescott, AZ, USA","3700 Willow Creek Rd, Prescott, AZ 86301, USA",34.6161042,-112.45077109999998
-"Earlham College, Richmond, IN, USA","801 National Rd W, Richmond, IN 47374, USA",39.82088529999999,-84.91305200000001
-"University of Oklahoma, Norman, OK, USA","660 Parrington Oval, Norman, OK 73019, USA",35.205893599999996,-97.4457137
-"Florida State University, Tallahassee, FL, USA","600 W College Ave, Tallahassee, FL 32306, USA",30.4418778,-84.29848890000001
-"SUNY University at Albany, Albany, NY, USA","1400 Washington Ave, Albany, NY 12222, USA",42.68494339999999,-73.82524959999998
+"Embry-Riddle Aeronautical University, Prescott, Prescott, AZ, USA","3700 Willow Creek Rd, Prescott, AZ 86301, USA",34.6161042,-112.4507711
+"Earlham College, Richmond, IN, USA","801 National Rd W, Richmond, IN 47374, USA",39.8208853,-84.913052
+"University of Oklahoma, Norman, OK, USA","660 Parrington Oval, Norman, OK 73019, USA",35.2058936,-97.4457137
+"Florida State University, Tallahassee, FL, USA","600 W College Ave, Tallahassee, FL 32306, USA",30.4418778,-84.2984889
+"SUNY University at Albany, Albany, NY, USA","1400 Washington Ave, Albany, NY 12222, USA",42.6849434,-73.8252496
 "Hofstra University, Hempstead, NY, USA","1000 Fulton Ave, Hempstead, NY 11549, USA",40.716792,-73.5994041
 "Westmont College, Santa Barbara, CA, USA","955 La Paz Road, Santa Barbara, CA 93108, United States",34.4488434,-119.6610313
-"Valparaiso University, Valparaiso, IN, USA","1700 Chapel Dr, Valparaiso, IN 46383, USA",41.463939399999994,-87.04388940000001
-"University of Georgia, Athens, GA, USA","Athens, GA 30602, USA",33.9480053,-83.37732209999999
+"Valparaiso University, Valparaiso, IN, USA","1700 Chapel Dr, Valparaiso, IN 46383, USA",41.4639394,-87.0438894
+"University of Georgia, Athens, GA, USA","Athens, GA 30602, USA",33.9480053,-83.3773221
 "Pratt Institute, Brooklyn, NY, USA","200 Willoughby Ave, Brooklyn, NY 11205, USA",40.6912807,-73.962537
-"University of Kansas, Lawrence, KS, USA","1450 Jayhawk Blvd, Lawrence, KS 66045, USA",38.9543439,-95.25579609999998
+"University of Kansas, Lawrence, KS, USA","1450 Jayhawk Blvd, Lawrence, KS 66045, USA",38.9543439,-95.2557961
 "Alma College, Alma, MI, USA","614 W Superior St, Alma, MI 48801, USA",43.379011,-84.669939
-"Sarah Lawrence College, Bronxville, NY, USA","1 Mead Way, Bronxville, NY 10708, USA",40.936052399999994,-73.8433974
-"Transylvania University, Lexington, KY, USA","300 N Broadway, Lexington, KY 40508, USA",38.053146999999996,-84.4936508
-"John Carroll University, University Heights, OH, USA","1 John Carroll Boulevard, University Heights, OH 44118, USA",41.490506200000006,-81.5293126
+"Sarah Lawrence College, Bronxville, NY, USA","1 Mead Way, Bronxville, NY 10708, USA",40.9360524,-73.8433974
+"Transylvania University, Lexington, KY, USA","300 N Broadway, Lexington, KY 40508, USA",38.053147,-84.4936508
+"John Carroll University, University Heights, OH, USA","1 John Carroll Boulevard, University Heights, OH 44118, USA",41.4905062,-81.5293126
 "University of Alabama at Birmingham, Birmingham, AL, USA","1720 2nd Ave S, Birmingham, AL 35294, USA",33.5021227,-86.8064447
 "University of South Carolina-Columbia, Columbia, SC, USA","Columbia, SC 29208, USA",33.996112,-81.0274276
 "Concordia College at Moorhead, Moorhead, MN, USA","901 8th St S, Moorhead, MN 56562, USA",46.8628042,-96.7700579
-"CUNY Bernard M. Baruch College, New York, NY, USA","55 Lexington Ave, New York, NY 10010, USA",40.740199100000005,-73.9833745
-"CUNY City College of New York, New York, NY, USA","160 Convent Ave, New York, NY 10031, USA",40.820047100000004,-73.9492724
+"CUNY Bernard M. Baruch College, New York, NY, USA","55 Lexington Ave, New York, NY 10010, USA",40.7401991,-73.9833745
+"CUNY City College of New York, New York, NY, USA","160 Convent Ave, New York, NY 10031, USA",40.8200471,-73.9492724
 "University of California, Riverside, Riverside, CA, USA","900 University Ave, Riverside, CA 92521, USA",33.9737055,-117.3280644
-"George Mason University, Fairfax, VA, USA","4400 University Dr, Fairfax, VA 22030, USA",38.831554100000005,-77.3120885
+"George Mason University, Fairfax, VA, USA","4400 University Dr, Fairfax, VA 22030, USA",38.8315541,-77.3120885
 "Southwestern University, Georgetown, TX, USA","1001 E University Ave, Georgetown, TX 78626, USA",30.6349251,-97.6651268
-"Houghton College, Houghton, NY, USA","1 Willard Ave, Houghton, NY 14744, USA",42.42681839999999,-78.1558062
+"Houghton College, Houghton, NY, USA","1 Willard Ave, Houghton, NY 14744, USA",42.4268184,-78.1558062
 "Augustana College (South Dakota), Sioux Falls, SD, USA","2001 S Summit Ave, Sioux Falls, SD 57197, USA",43.5226043,-96.7396893
 "Adelphi University, Garden City, NY, USA","1 South Ave, Garden City, NY 11530, USA",40.719728,-73.6517116
-"Bard College, Annandale-On-Hudson, NY, USA","30 Campus Rd, Annandale-On-Hudson, NY 12504, USA",42.0203897,-73.91005439999998
-"Goucher College, Baltimore, MD, USA","1021 Dulaney Valley Rd, Baltimore, MD 21204, USA",39.408765,-76.59654499999998
-"DePaul University, Chicago, IL, USA","1 E Jackson Blvd, Chicago, IL 60604, USA",41.8780698,-87.62737170000001
-"Hendrix College, Conway, AR, USA","1600 Washington Ave, Conway, AR 72032, USA",35.100046899999995,-92.4420118
+"Bard College, Annandale-On-Hudson, NY, USA","30 Campus Rd, Annandale-On-Hudson, NY 12504, USA",42.0203897,-73.9100544
+"Goucher College, Baltimore, MD, USA","1021 Dulaney Valley Rd, Baltimore, MD 21204, USA",39.408765,-76.596545
+"DePaul University, Chicago, IL, USA","1 E Jackson Blvd, Chicago, IL 60604, USA",41.8780698,-87.6273717
+"Hendrix College, Conway, AR, USA","1600 Washington Ave, Conway, AR 72032, USA",35.1000469,-92.4420118
 "Moravian College, Bethlehem, PA, USA","1200 Main St, Bethlehem, PA 18018, USA",40.6308814,-75.3812135
-"Suffolk University, Boston, MA, USA","8 Ashburton Pl, Boston, MA 02108, USA",42.358520500000004,-71.0613561
-"Oklahoma City University, Oklahoma City, OK, USA","2501 N Blackwelder Ave, Oklahoma City, OK 73106, USA",35.495574700000006,-97.5410682
-"California College of the Arts , San Francisco, CA, USA","1111 8th St, San Francisco, CA 94107, USA",37.7675281,-122.39950230000001
+"Suffolk University, Boston, MA, USA","8 Ashburton Pl, Boston, MA 02108, USA",42.3585205,-71.0613561
+"Oklahoma City University, Oklahoma City, OK, USA","2501 N Blackwelder Ave, Oklahoma City, OK 73106, USA",35.4955747,-97.5410682
+"California College of the Arts , San Francisco, CA, USA","1111 8th St, San Francisco, CA 94107, USA",37.7675281,-122.3995023
 "University of Oregon, Eugene, OR, USA","1585 E 13th Ave, Eugene, OR 97403, USA",44.0448302,-123.0726055
-"University of California, Santa Cruz, Santa Cruz, CA, USA","1156 High St, Santa Cruz, CA 95064, USA",36.9913856,-122.06087179999999
+"University of California, Santa Cruz, Santa Cruz, CA, USA","1156 High St, Santa Cruz, CA 95064, USA",36.9913856,-122.0608718
 "Pacific Lutheran University , Tacoma, WA, USA","12180 Park Ave S, Tacoma, WA 98447, USA",47.1453532,-122.4440668
-"Rutgers University-Camden, Camden, NJ, USA","303 Cooper St, Camden, NJ 08102, USA",39.9492076,-75.12291739999998
+"Rutgers University-Camden, Camden, NJ, USA","303 Cooper St, Camden, NJ 08102, USA",39.9492076,-75.1229174
 "Western New England University, Springfield, MA, USA","1215 Wilbraham Rd, Springfield, MA 01119, USA",42.1149784,-72.5186855
-"Hampshire College, Amherst, MA, USA","893 West St, Amherst, MA 01002, USA",42.325559000000005,-72.53229559999998
-"Lebanon Valley College, Annville, PA, USA","101 College Ave, Annville, PA 17003, USA",40.331103000000006,-76.514699
-"Auburn University, Auburn, AL, USA","Auburn, AL 36849, USA",32.593357399999995,-85.4951663
-"Baldwin Wallace University, Berea, OH, USA","275 Eastland Rd, Berea, OH 44017, USA",41.37111650000001,-81.8478088
-"CUNY Hunter College, New York, NY, USA","695 Park Ave, New York, NY 10065, USA",40.7685406,-73.96462509999998
-"Point Loma Nazarene University, San Diego, CA, USA","3900 Lomaland Dr, San Diego, CA 92106, USA",32.716863000000004,-117.250694
+"Hampshire College, Amherst, MA, USA","893 West St, Amherst, MA 01002, USA",42.325559,-72.5322956
+"Lebanon Valley College, Annville, PA, USA","101 College Ave, Annville, PA 17003, USA",40.331103,-76.514699
+"Auburn University, Auburn, AL, USA","Auburn, AL 36849, USA",32.5933574,-85.4951663
+"Baldwin Wallace University, Berea, OH, USA","275 Eastland Rd, Berea, OH 44017, USA",41.3711165,-81.8478088
+"CUNY Hunter College, New York, NY, USA","695 Park Ave, New York, NY 10065, USA",40.7685406,-73.9646251
+"Point Loma Nazarene University, San Diego, CA, USA","3900 Lomaland Dr, San Diego, CA 92106, USA",32.716863,-117.250694
 "Kettering University, Flint, MI, USA","1700 University Ave, Flint, MI 48504, USA",43.0115468,-83.7138531
 "University of Hartford, West Hartford, CT, USA","200 Bloomfield Ave, West Hartford, CT 06117, USA",41.7985989,-72.7140002
-"Saint Michael's College, Colchester, VT, USA","One Winooski Park, Colchester, VT 05439, United States",44.495162799999996,-73.1627561
-"College for Creative Studies, Detroit, MI, USA","201 E Kirby St, Detroit, MI 48202, USA",42.361397499999995,-83.06278640000001
-"The University of Tennessee-Knoxville, Knoxville, TN, USA","Knoxville, TN 37996, USA",35.9544013,-83.92945639999998
-"Miami University, Oxford, OH, USA","501 E High St, Oxford, OH 45056, USA",39.5105334,-84.73087679999998
-"University of Utah, Salt Lake City, UT, USA","201 Presidents Cir, Salt Lake City, UT 84112, USA",40.764936799999994,-111.84210209999999
-"University of Washington-Tacoma, Tacoma, WA, USA","1900 Commerce St, Tacoma, WA 98402, USA",47.24457990000001,-122.43761840000002
-"Taylor University, Upland, IN, USA","236 W Reade Ave, Upland, IN 46989, USA",40.4568032,-85.49762419999998
-"Pacific University, Forest Grove, OR, USA","2043 College Way, Forest Grove, OR 97116, USA",45.52090279999999,-123.10964080000001
+"Saint Michael's College, Colchester, VT, USA","One Winooski Park, Colchester, VT 05439, United States",44.4951628,-73.1627561
+"College for Creative Studies, Detroit, MI, USA","201 E Kirby St, Detroit, MI 48202, USA",42.3613975,-83.0627864
+"The University of Tennessee-Knoxville, Knoxville, TN, USA","Knoxville, TN 37996, USA",35.9544013,-83.9294564
+"Miami University, Oxford, OH, USA","501 E High St, Oxford, OH 45056, USA",39.5105334,-84.7308768
+"University of Utah, Salt Lake City, UT, USA","201 Presidents Cir, Salt Lake City, UT 84112, USA",40.7649368,-111.8421021
+"University of Washington-Tacoma, Tacoma, WA, USA","1900 Commerce St, Tacoma, WA 98402, USA",47.2445799,-122.4376184
+"Taylor University, Upland, IN, USA","236 W Reade Ave, Upland, IN 46989, USA",40.4568032,-85.4976242
+"Pacific University, Forest Grove, OR, USA","2043 College Way, Forest Grove, OR 97116, USA",45.5209028,-123.1096408
 "Colorado State University-Fort Collins, Fort Collins, CO, USA","Fort Collins, CO 80523, USA",40.573436,-105.0865473
-"University of Hawaii at Manoa, Honolulu, HI, USA","2500 Campus Rd, Honolulu, HI 96822, USA",21.296939000000002,-157.8171118
+"University of Hawaii at Manoa, Honolulu, HI, USA","2500 Campus Rd, Honolulu, HI 96822, USA",21.296939,-157.8171118
 "Rowan University, Glassboro, NJ, USA","201 Mullica Hill Rd, Glassboro, NJ 08028, USA",39.7098595,-75.1189478
-"Hampden-Sydney College, H arnpden-Sydney, VA, USA","80 College Rd, Hampden Sydney, VA 23943, USA",37.240375799999995,-78.46102979999998
-"William Jewell College, Liberty, MO, USA","500 College Hill, Liberty, MO 64068, USA",39.2473119,-94.41211700000001
-"Bellarrnine University, Louisville, KY, USA","2001 Newburg Rd, Louisville, KY 40205, USA",38.2184666,-85.70468170000001
-"Pace University-New York, New York, NY, USA","1 Pace Plaza, New York, NY 10038, USA",40.711119700000005,-74.00485669999998
-"Saint Joseph's University, Philadelphia, PA, USA","5600 City Ave, Philadelphia, PA 19131, USA",39.994683200000004,-75.2416405
-"University of Cincinnati-Uptown, Cincinnati, OH, USA","2600 Clifton Ave, Cincinnati, OH 45220, USA",39.1329219,-84.51495039999998
-"University of Mississippi, University, MS, USA","University, MS 38677, USA",34.364732399999994,-89.538443
-"University of Missouri-Columbia, Columbia, MO, USA","Columbia, MO 65211, USA",38.94038079999999,-92.3277375
+"Hampden-Sydney College, H arnpden-Sydney, VA, USA","80 College Rd, Hampden Sydney, VA 23943, USA",37.2403758,-78.4610298
+"William Jewell College, Liberty, MO, USA","500 College Hill, Liberty, MO 64068, USA",39.2473119,-94.412117
+"Bellarrnine University, Louisville, KY, USA","2001 Newburg Rd, Louisville, KY 40205, USA",38.2184666,-85.7046817
+"Pace University-New York, New York, NY, USA","1 Pace Plaza, New York, NY 10038, USA",40.7111197,-74.0048567
+"Saint Joseph's University, Philadelphia, PA, USA","5600 City Ave, Philadelphia, PA 19131, USA",39.9946832,-75.2416405
+"University of Cincinnati-Uptown, Cincinnati, OH, USA","2600 Clifton Ave, Cincinnati, OH 45220, USA",39.1329219,-84.5149504
+"University of Mississippi, University, MS, USA","University, MS 38677, USA",34.3647324,-89.538443
+"University of Missouri-Columbia, Columbia, MO, USA","Columbia, MO 65211, USA",38.9403808,-92.3277375
 "Illinois College, Jacksonville, IL, USA","1101 W College Ave, Jacksonville, IL 62650, USA",39.730211,-90.24675
-"Saint Francis University, Loretto, PA, USA","117 Evergreen Drive, Loretto, PA 15940, USA",40.503820000000005,-78.6376191
+"Saint Francis University, Loretto, PA, USA","117 Evergreen Drive, Loretto, PA 15940, USA",40.50382,-78.6376191
 "University of Nevada, Reno, Reno, NV, USA","1664 N Virginia St, Reno, NV 89557, USA",39.5441917,-119.816397
-"Cedar Crest College, Allentown, PA, USA","100 College Drive, Allentown, PA 18104, USA",40.5859377,-75.51966309999999
-"Andrews University, Berrien Springs, MI, USA","8975 US Highway 31, Berrien Springs, MI 49104, USA",41.964069200000004,-86.35911639999998
-"Nova Southeastern University, Fort Lauderdale, FL, USA","3301 College Ave, Fort Lauderdale, FL 33314, USA",26.078936399999996,-80.2462675
+"Cedar Crest College, Allentown, PA, USA","100 College Drive, Allentown, PA 18104, USA",40.5859377,-75.5196631
+"Andrews University, Berrien Springs, MI, USA","8975 US Highway 31, Berrien Springs, MI 49104, USA",41.9640692,-86.3591164
+"Nova Southeastern University, Fort Lauderdale, FL, USA","3301 College Ave, Fort Lauderdale, FL 33314, USA",26.0789364,-80.2462675
 "Nazareth College, Rochester, NY, USA","4245 East Ave, Rochester, NY 14618, USA",43.1030175,-77.520027
-"CUNY Brooklyn College, Brooklyn, NY, USA","2900 Bedford Ave, Brooklyn, NY 11210, USA",40.631440600000005,-73.9544488
-"Southern Illinois University Carbondale, Carbondale, IL, USA","1263 Lincoln Dr, Carbondale, IL 62901, USA",37.7090577,-89.22491339999998
+"CUNY Brooklyn College, Brooklyn, NY, USA","2900 Bedford Ave, Brooklyn, NY 11210, USA",40.6314406,-73.9544488
+"Southern Illinois University Carbondale, Carbondale, IL, USA","1263 Lincoln Dr, Carbondale, IL 62901, USA",37.7090577,-89.2249134
 "Stetson University, Die Land, FL, USA","421 N Woodland Blvd, DeLand, FL 32723, USA",29.035664,-81.3015046
-"Saint Vincent College, Latrobe, PA, USA","300 Fraser Purchase Rd, Latrobe, PA 15650, USA",40.2914205,-79.40036529999998
+"Saint Vincent College, Latrobe, PA, USA","300 Fraser Purchase Rd, Latrobe, PA 15650, USA",40.2914205,-79.4003653
 "Tuskegee University, Tuskegee, AL, USA","1200 W Montgomery Rd, Tuskegee, AL 36088, USA",32.430678,-85.7072853
-"University of New England, Biddeford, ME, USA","11 Hills Beach Rd, Biddeford, ME 04005, USA",43.458290399999996,-70.3865402
+"University of New England, Biddeford, ME, USA","11 Hills Beach Rd, Biddeford, ME 04005, USA",43.4582904,-70.3865402
 "University of Redlands, Redlands, CA, USA","1200 E Colton Ave, Redlands, CA 92374, USA",34.0630404,-117.1632426
 "Brigham Young University-Hawaii, Laie, HI, USA","55-220 Kulanui St, Laie, HI 96762, USA",21.6420138,-157.925331
 "Queens University of Charlotte, Charlotte, NC, USA","1900 Selwyn Ave, Charlotte, NC 28207, USA",35.1885164,-80.83279
 "Carroll College, Helena, MT, USA","1601 N Benton Ave, Helena, MT 59625, USA",46.600734,-112.03888
 "University of Washington-Bothell, Bothell, WA, USA","18115 Campus Way NE, Bothell, WA 98011, USA",47.7589,-122.1906495
 "Rider University, Lawrenceville, NJ, USA","2083 Lawrenceville Rd, Lawrenceville, NJ 08648, USA",40.279623,-74.738187
-"Merrimack College, North Andover MA, USA","315 Turnpike St, North Andover, MA 01845, USA",42.6677049,-71.12257050000002
-"University of St Thomas, Saint Paul, MN, USA","2115 Summit Ave, St Paul, MN 55105, USA",44.941751000000004,-93.1914909
-"Springfield College, Springfield, MA, USA","263 Alden Street, Springfield, MA 01109, United States",42.102229200000004,-72.55656309999999
-"St Norbert College, De Pere, WI, USA","316 3rd St, De Pere, WI 54115, USA",44.44485,-88.06637669999998
+"Merrimack College, North Andover MA, USA","315 Turnpike St, North Andover, MA 01845, USA",42.6677049,-71.1225705
+"University of St Thomas, Saint Paul, MN, USA","2115 Summit Ave, St Paul, MN 55105, USA",44.941751,-93.1914909
+"Springfield College, Springfield, MA, USA","263 Alden Street, Springfield, MA 01109, United States",42.1022292,-72.5565631
+"St Norbert College, De Pere, WI, USA","316 3rd St, De Pere, WI 54115, USA",44.44485,-88.0663767
 "St John Fisher College, Rochester, NY, USA","3690 East Ave, Rochester, NY 14618, USA",43.115372,-77.511511
-"MCPHS University, Boston, MA, USA","179 Longwood Ave, Boston, MA 02115, USA",42.336799400000004,-71.101197
-"Kansas State University, Manhattan, KS, USA","Manhattan, KS 66506, USA",39.1974437,-96.58472490000001
-"University of Maryland. Baltimore County, Baltimore, MD, USA","1000 Hilltop Cir, Baltimore, MD 21250, USA",39.255612899999996,-76.7109751
+"MCPHS University, Boston, MA, USA","179 Longwood Ave, Boston, MA 02115, USA",42.3367994,-71.101197
+"Kansas State University, Manhattan, KS, USA","Manhattan, KS 66506, USA",39.1974437,-96.5847249
+"University of Maryland. Baltimore County, Baltimore, MD, USA","1000 Hilltop Cir, Baltimore, MD 21250, USA",39.2556129,-76.7109751
 "Xavier University of Louisiana, New Orleans, LA, USA","1 Drexel Dr, New Orleans, LA 70125, USA",29.963863,-90.107084
-"Lawrence Technological University, Southfield, MI, USA","21000 W 10 Mile Rd, Southfield, MI 48075, USA",42.4755011,-83.24979669999998
-"Azusa Pacific University, Azusa, CA, USA","901 E Alosta Ave, Azusa, CA 91702, USA",34.130075500000004,-117.88835929999999
+"Lawrence Technological University, Southfield, MI, USA","21000 W 10 Mile Rd, Southfield, MI 48075, USA",42.4755011,-83.2497967
+"Azusa Pacific University, Azusa, CA, USA","901 E Alosta Ave, Azusa, CA 91702, USA",34.1300755,-117.8883593
 "Elmhurst College, Elmhurst, IL, USA","190 S Prospect Ave, Elmhurst, IL 60126, USA",41.895871,-87.945605
 "University of Kentucky, Lexington, KY, USA","Lexington, KY 40506, USA",38.0306511,-84.5039697
-"Hartwick College, Oneonta, NY, USA","1 Hartwick Dr, Oneonta, NY 13820, USA",42.457353399999995,-75.07288679999998
+"Hartwick College, Oneonta, NY, USA","1 Hartwick Dr, Oneonta, NY 13820, USA",42.4573534,-75.0728868
 "Albright College, Reading, PA, USA","1621 N 13th St, Reading, PA 19604, USA",40.3615027,-75.910629
-"Assumption College, Worcester, MA, USA","500 Salisbury St, Worcester, MA 01609, USA",42.294714299999995,-71.8289631
+"Assumption College, Worcester, MA, USA","500 Salisbury St, Worcester, MA 01609, USA",42.2947143,-71.8289631
 "SU NY College of Environmental Science and Forestry, Syracuse, NY, USA","1 Forestry Dr, Syracuse, NY 13210, USA",43.0344612,-76.1369148
 "Canisius College, Buffalo, NY, USA","2001 Main St, Buffalo, NY 14208, USA",42.9248338,-78.8514848
 "Cedarville University, Cedarville, OH, USA","251 N Main St, Cedarville, OH 45314, USA",39.7495714,-83.8126484
 "Marian University (Indiana), Indianapolis, IN, USA","3200 Cold Spring Rd, Indianapolis, IN 46222, USA",39.8168739,-86.203026
-"CU NY Queens College, Queens, NY, USA","65-30 Kissena Blvd, Queens, NY 11367, USA",40.737973499999995,-73.8172393
+"CU NY Queens College, Queens, NY, USA","65-30 Kissena Blvd, Queens, NY 11367, USA",40.7379735,-73.8172393
 "University of Wyoming, Laramie, WY, USA","1000 E University Ave, Laramie, WY 82071, USA",41.3148754,-105.5665744
 "Messiah College, Mechanicsburg, PA, USA","1 College Ave, Mechanicsburg, PA 17055, USA",40.157957,-76.988194
-"New Jersey Institute of Technology, Newark, NJ, USA","323 Dr Martin Luther King Jr Blvd, Newark, NJ 07102, USA",40.7423345,-74.17934090000001
+"New Jersey Institute of Technology, Newark, NJ, USA","323 Dr Martin Luther King Jr Blvd, Newark, NJ 07102, USA",40.7423345,-74.1793409
 "Wartburg College, Waverly, IA, USA","100 Wartburg Blvd, Waverly, IA 50677, USA",42.7285775,-92.4821589
 "Milwaukee School of Engineering, Milwaukee, WI, USA","1025 N Broadway, Milwaukee, WI 53202, USA",43.0440495,-87.9084479
-"King's College, Wilkes-Barre, PA, USA","133 N River St, Wilkes-Barre, PA 18711, USA",41.249967299999994,-75.87928529999998
+"King's College, Wilkes-Barre, PA, USA","133 N River St, Wilkes-Barre, PA 18711, USA",41.2499673,-75.8792853
 "The Citadel, The Military College of South Carolina, Charleston, SC, USA","171 Moultrie St, Charleston, SC 29409, USA",32.797075,-79.9606739
 "Georgetown College, Georgetown, KY, USA","400 E College St, Georgetown, KY 40324, USA",38.2070067,-84.5543228
-"West Virginia University, Morgantown, WV, USA","Morgantown, WV 26506, USA",39.6361396,-79.95593579999998
+"West Virginia University, Morgantown, WV, USA","Morgantown, WV 26506, USA",39.6361396,-79.9559358
 "Campbell University, Rules Creek, NC, USA",,,
 "St Catherine University, Saint Paul, MN, USA","2004 Randolph Ave, St Paul, MN 55105, USA",44.925308,-93.182822
-"San Diego State University, San Diego, CA, USA","5250 Campanile Dr, San Diego, CA 92182, USA",32.77572170000001,-117.0718893
+"San Diego State University, San Diego, CA, USA","5250 Campanile Dr, San Diego, CA 92182, USA",32.7757217,-117.0718893
 "Califomia State University Maritime Academy, Vallejo CA, USA","200 Maritime Academy Dr, Vallejo, CA 94590, USA",38.069706,-122.2306447
-"School of the Art Institute of Chicago, Chicago, IL, USA","112 S Michigan Ave, Chicago, IL 60603, USA",41.880286100000006,-87.6249193
-"University of Mount Union, Alliance, OH, USA","1972 Clark Ave, Alliance, OH 44601, USA",40.902231,-81.10875399999998
+"School of the Art Institute of Chicago, Chicago, IL, USA","112 S Michigan Ave, Chicago, IL 60603, USA",41.8802861,-87.6249193
+"University of Mount Union, Alliance, OH, USA","1972 Clark Ave, Alliance, OH 44601, USA",40.902231,-81.108754
 "Philadelphia University, Philadelphia, PA, USA","4201 Henry Ave, Philadelphia, PA 19144, USA",40.0187208,-75.1922881
-"Roger Williams University, Bristol, RI, USA","1 Old Ferry Rd, Bristol, RI 02809, USA",41.651061799999994,-71.25945970000001
-"Union University, Jackson, TN, USA","1050 Union University Dr, Jackson, TN 38305, USA",35.6773778,-88.85959059999998
+"Roger Williams University, Bristol, RI, USA","1 Old Ferry Rd, Bristol, RI 02809, USA",41.6510618,-71.2594597
+"Union University, Jackson, TN, USA","1050 Union University Dr, Jackson, TN 38305, USA",35.6773778,-88.8595906
 "Central College, Pella, IA, USA","812 University St, Pella, IA 50219, USA",41.400595,-92.919667
-"University of Dallas, Irving, TX, USA","1845 E Northgate Dr, Irving, TX 75062, USA",32.8481339,-96.92168570000001
+"University of Dallas, Irving, TX, USA","1845 E Northgate Dr, Irving, TX 75062, USA",32.8481339,-96.9216857
 "Chatham University, Pittsburgh, PA, USA","1 Woodland Rd, Pittsburgh, PA 15232, USA",40.4482193,-79.9242625
-"Wittenberg University, Springfield, OH, USA","200 W Ward St, Springfield, OH 45504, USA",39.936549600000006,-83.81390290000002
-"Hiram College, Hiram, OH, USA","11715 Garfield Rd, Hiram, OH 44234, USA",41.310732200000004,-81.1439525
+"Wittenberg University, Springfield, OH, USA","200 W Ward St, Springfield, OH 45504, USA",39.9365496,-83.8139029
+"Hiram College, Hiram, OH, USA","11715 Garfield Rd, Hiram, OH 44234, USA",41.3107322,-81.1439525
 "John Brown University, Siloam Springs, AR, USA","2000 W University St, Siloam Springs, AR 72761, USA",36.190767,-94.5594091
-"College of Idaho, Caldwell, ID, USA","2112 Cleveland Blvd, Caldwell, ID 83605, USA",43.653597,-116.67687609999999
-"Capital University, Columbus, OH, USA","1 College Ave, Columbus, OH 43209, USA",39.954924600000005,-82.938559
+"College of Idaho, Caldwell, ID, USA","2112 Cleveland Blvd, Caldwell, ID 83605, USA",43.653597,-116.6768761
+"Capital University, Columbus, OH, USA","1 College Ave, Columbus, OH 43209, USA",39.9549246,-82.938559
 "University of Missouri-Kansas City, Kansas City, MO, USA","5100 Rockhill Rd, Kansas City, MO 64110, USA",39.0335539,-94.5760259
-"New York Institute of Technology, Old Westbury, NY, USA","Northern Blvd & Valentines Ln, Old Westbury, NY 11568, USA",40.81141969999999,-73.605301
-"Otterbein University, Westerville, OH, USA","1 S Grove St, Westerville, OH 43081, USA",40.12687460000001,-82.9371852
-"University of Michigan-Dearborn, Dearborn, MI, USA","4901 Evergreen Rd, Dearborn, MI 48128, USA",42.318409,-83.23320199999998
-"University of Louisville, Louisville, KY, USA","2301 S 3rd St, Louisville, KY 40292, USA",38.2122761,-85.75850229999998
-"Virginia Commonwealth University, Richmond, VA, USA","907 Floyd Ave, Richmond, VA 23284, USA",37.548987200000006,-77.4534286
+"New York Institute of Technology, Old Westbury, NY, USA","Northern Blvd & Valentines Ln, Old Westbury, NY 11568, USA",40.8114197,-73.605301
+"Otterbein University, Westerville, OH, USA","1 S Grove St, Westerville, OH 43081, USA",40.1268746,-82.9371852
+"University of Michigan-Dearborn, Dearborn, MI, USA","4901 Evergreen Rd, Dearborn, MI 48128, USA",42.318409,-83.233202
+"University of Louisville, Louisville, KY, USA","2301 S 3rd St, Louisville, KY 40292, USA",38.2122761,-85.7585023
+"Virginia Commonwealth University, Richmond, VA, USA","907 Floyd Ave, Richmond, VA 23284, USA",37.5489872,-77.4534286
 "The College of St Scholastica, Duluth, MN, USA","1200 Kenwood Ave, Duluth, MN 55811, USA",46.8161783,-92.1060949
 "James Madison University, Harrisonburg, VA, USA","800 S Main St, Harrisonburg, VA 22807, USA",38.435092,-78.8697548
-"Montclair State University, Montclair, NJ, USA","1 Normal Ave, Montclair, NJ 07043, USA",40.8644792,-74.19855969999998
-"Roanoke College, Salem, VA, USA","221 College Lane, Salem, VA 24153, USA",37.294247999999996,-80.05492699999998
-"Norwich University, Northfield, VT, USA","158 Harmon Dr, Northfield, VT 05663, USA",44.13900539999999,-72.6612317
+"Montclair State University, Montclair, NJ, USA","1 Normal Ave, Montclair, NJ 07043, USA",40.8644792,-74.1985597
+"Roanoke College, Salem, VA, USA","221 College Lane, Salem, VA 24153, USA",37.294248,-80.054927
+"Norwich University, Northfield, VT, USA","158 Harmon Dr, Northfield, VT 05663, USA",44.1390054,-72.6612317
 "Oklahoma State University, Stillwater, OK, USA","Stillwater, OK 74074, USA",36.1270236,-97.0737222
 "Gordon College, We nham, MA, USA","255 Grapevine Rd, Wenham, MA 01984, USA",42.5893751,-70.8209286
-"St Joseph's College-New Yor,, Brooklyn, NY, USA","245 Clinton Ave, Brooklyn, NY 11205, USA",40.690509000000006,-73.9677729
-"St Edward's University, Austin, TX, USA","3001 S Congress Ave, Austin, TX 78704, USA",30.2297224,-97.75385820000001
+"St Joseph's College-New Yor,, Brooklyn, NY, USA","245 Clinton Ave, Brooklyn, NY 11205, USA",40.690509,-73.9677729
+"St Edward's University, Austin, TX, USA","3001 S Congress Ave, Austin, TX 78704, USA",30.2297224,-97.7538582
 "Doane College-Crete, Crete, NE, USA","1014 Boswell Ave, Crete, NE 68333, USA",40.622954,-96.950967
 "Gannon University, Erie, PA, USA","109 University Square, Erie, PA 16501, USA",42.1282445,-80.0865882
-"Franklin College, Franklin, IN, USA","101 Branigin Blvd, Franklin, IN 46131, USA",39.478646000000005,-86.045479
+"Franklin College, Franklin, IN, USA","101 Branigin Blvd, Franklin, IN 46131, USA",39.478646,-86.045479
 "Berry College, Mount Berry, GA, USA","2277 Martha Berry Hwy NW, Mt Berry, GA 30149, United States",34.290361,-85.189199
 "Marist College, Poughkeepsie, NY, USA","3399 North Rd, Poughkeepsie, NY 12601, USA",41.7224565,-73.9341204
-"Lycoming College, Williamsport, PA, USA","700 College Pl, Williamsport, PA 17701, USA",41.24601800000001,-77.00018100000001
+"Lycoming College, Williamsport, PA, USA","700 College Pl, Williamsport, PA 17701, USA",41.246018,-77.000181
 "SUNY New Rai, New Patti, NY, USA",,,
-"Salve Regina University, Newport RI, USA","100 Ochre Point Ave, Newport, RI 02840, USA",41.47145270000001,-71.3006438
+"Salve Regina University, Newport RI, USA","100 Ochre Point Ave, Newport, RI 02840, USA",41.4714527,-71.3006438
 "Seattle Pacific University, Seattle, WA, USA","3307 3rd Ave W, Seattle, WA 98119, USA",47.6495805,-122.3615366
-"Wagner College, Staten Island, NY, USA","1 Campus Rd, Staten Island, NY 10301, USA",40.614979600000005,-74.09440490000001
-"Wilkes University, Wilkes-Barre, PA, USA","84 W South St, Wilkes-Barre, PA 18701, USA",41.244863200000005,-75.88810699999998
-"LIU Post, Brookville, NY, USA","720 Northern Blvd, Brookville, NY 11548, USA",40.817234899999995,-73.5900738
+"Wagner College, Staten Island, NY, USA","1 Campus Rd, Staten Island, NY 10301, USA",40.6149796,-74.0944049
+"Wilkes University, Wilkes-Barre, PA, USA","84 W South St, Wilkes-Barre, PA 18701, USA",41.2448632,-75.888107
+"LIU Post, Brookville, NY, USA","720 Northern Blvd, Brookville, NY 11548, USA",40.8172349,-73.5900738
 "St Ambrose University, Davenport, IA, USA","518 Locust St, Davenport, IA 52803, USA",41.5404254,-90.5807611
-"Eastern Mennonite University, Harrisonburg, VA, USA","1200 Park Rd, Harrisonburg, VA 22802, USA",38.472620299999996,-78.87739719999998
+"Eastern Mennonite University, Harrisonburg, VA, USA","1200 Park Rd, Harrisonburg, VA 22802, USA",38.4726203,-78.8773972
 "Monmouth College, Monmouth, IL, USA","700 E Broadway, Monmouth, IL 61462, USA",40.9135265,-90.6386297
-"St John's University-New York, Queens, NY, USA","8000 Utopia Pkwy, Queens, NY 11439, USA",40.7215967,-73.79468990000001
-"Stockton University, Galloway, NJ, USA","101 Vera King Farris Dr, Galloway, NJ 08205, USA",39.4941665,-74.53237949999998
-"Trinity Christian College, Palos Heights, IL, USA","6601 W College Dr, Palos Heights, IL 60463, USA",41.66861859999999,-87.7841447
+"St John's University-New York, Queens, NY, USA","8000 Utopia Pkwy, Queens, NY 11439, USA",40.7215967,-73.7946899
+"Stockton University, Galloway, NJ, USA","101 Vera King Farris Dr, Galloway, NJ 08205, USA",39.4941665,-74.5323795
+"Trinity Christian College, Palos Heights, IL, USA","6601 W College Dr, Palos Heights, IL 60463, USA",41.6686186,-87.7841447
 "Le Moyne College, Syracuse, NY, USA","1419 Salt Springs Rd, Syracuse, NY 13214, USA",43.0497018,-76.0855042
 "Emerson College, Boston, MA, USA","120 Boylston St, Boston, MA 02116, USA",42.3520298,-71.0656551
-"University of Arkansas, Fayetteville, AR, USA","Fayetteville, AR 72701, USA",36.06783239999999,-94.1736551
+"University of Arkansas, Fayetteville, AR, USA","Fayetteville, AR 72701, USA",36.0678324,-94.1736551
 "East Carolina University, Greenville, NC, USA","E 5th St, Greenville, NC 27858, USA",35.6055108,-77.3645653
-"Lincoln Memorial University, Harrogate, TN, USA","6965 Cumberland Gap Pkwy, Harrogate, TN 37752, USA",36.576972,-83.66076009999998
-"University of South Florida, Tampa, FL, USA","4202 E Fowler Ave, Tampa, FL 33620, USA",28.058703100000002,-82.41385389999998
-"California Lutheran University, Thousand Oaks, CA, USA","60 W Olsen Rd, Thousand Oaks, CA 91360, USA",34.225016700000005,-118.87885370000001
-"Louisiana State University, Baton Rouge, LA, USA","Baton Rouge, LA 70803, USA",30.413257899999998,-91.1800023
+"Lincoln Memorial University, Harrogate, TN, USA","6965 Cumberland Gap Pkwy, Harrogate, TN 37752, USA",36.576972,-83.6607601
+"University of South Florida, Tampa, FL, USA","4202 E Fowler Ave, Tampa, FL 33620, USA",28.0587031,-82.4138539
+"California Lutheran University, Thousand Oaks, CA, USA","60 W Olsen Rd, Thousand Oaks, CA 91360, USA",34.2250167,-118.8788537
+"Louisiana State University, Baton Rouge, LA, USA","Baton Rouge, LA 70803, USA",30.4132579,-91.1800023
 "University of New Hampshire, Durham, NH, USA","105 Main St, Durham, NH 03824, USA",43.138948,-70.9370252
-"University of Indianapolis, Indianapolis, IN, USA","1400 E Hanna Ave, Indianapolis, IN 46227, USA",39.709764,-86.13551869999998
-"Loyola University New Orleans, New Orleans, LA, USA","6363 St Charles Ave, New Orleans, LA 70118, USA",29.935715999999996,-90.1203782
-"Eastern Illinois University, Charleston, IL, USA","600 Lincoln Ave, Charleston, IL 61920, USA",39.478029299999996,-88.1759052
-"Millikin University, Decatur, IL, USA","1184 W Main St, Decatur, IL 62522, USA",39.843096100000004,-88.974817
-"Southern Nazarene University, Bethany, OK, USA","6729 NW 39th Expy, Bethany, OK 73008, USA",35.513507000000004,-97.62921700000001
-"Whitworth University, Spokane, WA, USA","300 W Hawthorne Rd, Spokane, WA 99251, USA",47.75487280000001,-117.4178623
+"University of Indianapolis, Indianapolis, IN, USA","1400 E Hanna Ave, Indianapolis, IN 46227, USA",39.709764,-86.1355187
+"Loyola University New Orleans, New Orleans, LA, USA","6363 St Charles Ave, New Orleans, LA 70118, USA",29.935716,-90.1203782
+"Eastern Illinois University, Charleston, IL, USA","600 Lincoln Ave, Charleston, IL 61920, USA",39.4780293,-88.1759052
+"Millikin University, Decatur, IL, USA","1184 W Main St, Decatur, IL 62522, USA",39.8430961,-88.974817
+"Southern Nazarene University, Bethany, OK, USA","6729 NW 39th Expy, Bethany, OK 73008, USA",35.513507,-97.629217
+"Whitworth University, Spokane, WA, USA","300 W Hawthorne Rd, Spokane, WA 99251, USA",47.7548728,-117.4178623
 "Misericordia University, Dallas, PA, USA","301 Lake Street, Dallas, PA 18612, USA",41.345197,-75.9707268
 "Nebraska Wesleyan University, Lincoln, NE, USA","2710 N 48th St, Lincoln, NE 68504, USA",40.8395997,-96.6534974
-"Gwynedd Mercy University, Gwynedd Valley, PA, USA","1325 Sumneytown Pike, Gwynedd Valley, PA 19437, USA",40.196788,-75.23733399999998
+"Gwynedd Mercy University, Gwynedd Valley, PA, USA","1325 Sumneytown Pike, Gwynedd Valley, PA 19437, USA",40.196788,-75.237334
 "Martin Luther College, New Ulm, MN, USA","Chapel of the Christ, 1995 Luther Ct, New Ulm, MN 56073, USA",44.3045605,-94.4720672
 "Randolph-Macon College, Ashland, VA, USA","114 College Ave, Ashland, VA 23005, USA",37.7603794,-77.4783518
 "University of Alabama in Huntsville, Huntsville, AL, USA","301 Sparkman Dr NW, Huntsville, AL 35899, USA",34.7251414,-86.639747
-"McDaniel College, Westminster, MD, USA","2 College Hill, Westminster, MD 21157, USA",39.5829905,-77.00371919999998
-"University of New Mexico, Albuquerque, NM, USA","Albuquerque, NM 87131, USA",35.084318700000004,-106.61978119999999
+"McDaniel College, Westminster, MD, USA","2 College Hill, Westminster, MD 21157, USA",39.5829905,-77.0037192
+"University of New Mexico, Albuquerque, NM, USA","Albuquerque, NM 87131, USA",35.0843187,-106.6197812
 "Hamline University, Saint Paul, MN, USA","1536 Hewitt Ave, St Paul, MN 55104, USA",44.965946,-93.164807
-"Maryland Institute College of Art, Baltimore, MD, USA","1300 W Mt Royal Ave, Baltimore, MD 21217, USA",39.307555,-76.62163389999998
+"Maryland Institute College of Art, Baltimore, MD, USA","1300 W Mt Royal Ave, Baltimore, MD 21217, USA",39.307555,-76.6216339
 "University of Massachusetts Boston, Boston, MA, USA","100 William T Morrissey Blvd, Boston, MA 02125, USA",42.3148413,-71.0367377
 "Clarke University, Dubuque, IA, USA","1550 Clarke Dr, Dubuque, IA 52001, USA",42.5092662,-90.6913801
 "University of Texas at Dallas, Richardson, TX, USA","800 W Campbell Rd, Richardson, TX 75080, USA",32.9857619,-96.7500993
-"Hastings College, Hastings, NE, USA","710 Turner Ave, Hastings, NE 68901, USA",40.59041929999999,-98.37328740000001
-"Christian Brothers University, Memphis, TN, USA","650 E Parkway S, Memphis, TN 38104, USA",35.128536700000005,-89.98106429999999
+"Hastings College, Hastings, NE, USA","710 Turner Ave, Hastings, NE 68901, USA",40.5904193,-98.3732874
+"Christian Brothers University, Memphis, TN, USA","650 E Parkway S, Memphis, TN 38104, USA",35.1285367,-89.9810643
 "University of Alabama, Tuscaloosa, AL, USA","Tuscaloosa, AL 35487, USA",33.2140233,-87.5391418
 "University of Nebraska-Lincoln, Lincoln, NE, USA","1400 R St, Lincoln, NE 68588, USA",40.8201966,-96.7004763
 "Maryville University, Saint Louis, MO, USA","650 Maryville University Dr, St. Louis, MO 63141, USA",38.6456624,-90.5047854
-"Fairleigh Dickinson University, Teaneck, NJ, USA","1000 River Rd, Teaneck, NJ 07666, USA",40.8977928,-74.03086400000001
-"California State University, Chico, Chico, CA, USA","Langdon Hall, 400 W 1st St, Chico, CA 95928, USA",39.7273061,-121.84767679999999
+"Fairleigh Dickinson University, Teaneck, NJ, USA","1000 River Rd, Teaneck, NJ 07666, USA",40.8977928,-74.030864
+"California State University, Chico, Chico, CA, USA","Langdon Hall, 400 W 1st St, Chico, CA 95928, USA",39.7273061,-121.8476768
 "Western Illinois University, Macomb, IL, USA","1 University Cir, Macomb, IL 61455, USA",40.476174,-90.684401
 "The University of the Arts, Philadelphia, PA, USA","320 S Broad St, Philadelphia, PA 19102, USA",39.945974,-75.165566
-"California State University, Long Beach, Long Beach, CA, USA","1250 Bellflower Blvd, Long Beach, CA 90840, United States",33.7838235,-118.11409040000001
-"Eastern Nazarene College, Quincy, MA, USA","23 E Elm Ave, Quincy, MA 02170, USA",42.2715247,-71.01087679999998
-"University of Toledo, Toledo, OH, USA","2801 W Bancroft St, Toledo, OH 43606, USA",41.658030700000005,-83.61407009999999
+"California State University, Long Beach, Long Beach, CA, USA","1250 Bellflower Blvd, Long Beach, CA 90840, United States",33.7838235,-118.1140904
+"Eastern Nazarene College, Quincy, MA, USA","23 E Elm Ave, Quincy, MA 02170, USA",42.2715247,-71.0108768
+"University of Toledo, Toledo, OH, USA","2801 W Bancroft St, Toledo, OH 43606, USA",41.6580307,-83.6140701
 "Marymount University, Arlington, VA, USA","2807 N Glebe Rd, Arlington, VA 22207, USA",38.905351,-77.1277618
 "Morehouse College, Atlanta, GA, USA","830 Westview Dr SW, Atlanta, GA 30314, USA",33.7459553,-84.4138651
 "Arcadia University, Glenside, PA, USA","450 S Easton Rd, Glenside, PA 19038, USA",40.0914406,-75.1648845
-"Truman State University, Kirksville, MO, USA","100 E Normal St, Kirksville, MO 63501, USA",40.185857299999995,-92.5813724
-"University of Minnesota Morris, Morris, MN, USA","600 East 4th Street, Morris, MN 56267, USA",45.58903170000001,-95.8969661
-"Salem College, Winston-Salem, NC, USA","601 Church St S, Winston-Salem, NC 27101, USA",36.087117799999994,-80.2404828
-"University of Charleston, Charleston, WV, USA","2300 MacCorkle Ave SE, Charleston, WV 25304, USA",38.332828899999996,-81.6165232
-"University of Central Florida, Orlando, FL, USA","4000 Central Florida Blvd, Orlando, FL 32816, USA",28.602427399999996,-81.2000599
-"Oglethorpe University, Atlanta, GA, USA","4484 Peachtree Rd NE, Atlanta, GA 30319, USA",33.876195700000004,-84.3346954
+"Truman State University, Kirksville, MO, USA","100 E Normal St, Kirksville, MO 63501, USA",40.1858573,-92.5813724
+"University of Minnesota Morris, Morris, MN, USA","600 East 4th Street, Morris, MN 56267, USA",45.5890317,-95.8969661
+"Salem College, Winston-Salem, NC, USA","601 Church St S, Winston-Salem, NC 27101, USA",36.0871178,-80.2404828
+"University of Charleston, Charleston, WV, USA","2300 MacCorkle Ave SE, Charleston, WV 25304, USA",38.3328289,-81.6165232
+"University of Central Florida, Orlando, FL, USA","4000 Central Florida Blvd, Orlando, FL 32816, USA",28.6024274,-81.2000599
+"Oglethorpe University, Atlanta, GA, USA","4484 Peachtree Rd NE, Atlanta, GA 30319, USA",33.8761957,-84.3346954
 "Massachusetts College of Art and Design, BostoR MA, USA","621 Huntington Ave, Boston, MA 02115, USA",42.3368239,-71.0992668
 "Walla Walla University, College Place, WA, USA","204 S College Ave, College Place, WA 99324, USA",46.0464496,-118.3906389
 "High Point University, High Point NC, USA","1 University Parkway, High Point, NC 27262, United States",35.9723841,-79.9953079
-"Chestnut Hill College, Philadelphia, PA, USA","9601 Germantown Ave, Philadelphia, PA 19118, USA",40.0866725,-75.22860920000001
-"Ohio University, Athens, OH, USA","Athens, OH 45701, USA",39.324358000000004,-82.10138889999998
-"Birmingham-Southern College, Birmingham, AL, USA","900 Arkadelphia Rd, Birmingham, AL 35254, USA",33.51609869999999,-86.8511644
+"Chestnut Hill College, Philadelphia, PA, USA","9601 Germantown Ave, Philadelphia, PA 19118, USA",40.0866725,-75.2286092
+"Ohio University, Athens, OH, USA","Athens, OH 45701, USA",39.324358,-82.1013889
+"Birmingham-Southern College, Birmingham, AL, USA","900 Arkadelphia Rd, Birmingham, AL 35254, USA",33.5160987,-86.8511644
 "Mount St Mary's University, Ernrnitsburg, MD, USA","16300 Old Emmitsburg Rd, Emmitsburg, MD 21727, USA",39.6807058,-77.3490013
-"Belmont University, Nashville, TN, USA","1900 Belmont Blvd, Nashville, TN 37212, USA",36.132898100000006,-86.7940699
+"Belmont University, Nashville, TN, USA","1900 Belmont Blvd, Nashville, TN 37212, USA",36.1328981,-86.7940699
 "California State Polytechnic University, Pomona, Pomona, CA, USA","3801 W Temple Ave, Pomona, CA 91768, USA",34.0575651,-117.820741
 "Shenandoah University, Winchester, VA, USA","1460 University Dr, Winchester, VA 22601, USA",39.1660159,-78.1583388
-"Ouachita Baptist University, Arkadelphia, AR, USA","410 Ouachita St, Arkadelphia, AR 71998, USA",34.1274257,-93.05199920000001
-"St Bonaventure University, Saint Bonaventure, NY, USA","3261 W State St, St Bonaventure, NY 14778, USA",42.07841129999999,-78.48288219999998
-"St Marys University, San Antonio, TX, USA","1 Camino Santa Maria, San Antonio, TX 78228, USA",29.452337800000002,-98.5640981
+"Ouachita Baptist University, Arkadelphia, AR, USA","410 Ouachita St, Arkadelphia, AR 71998, USA",34.1274257,-93.0519992
+"St Bonaventure University, Saint Bonaventure, NY, USA","3261 W State St, St Bonaventure, NY 14778, USA",42.0784113,-78.4828822
+"St Marys University, San Antonio, TX, USA","1 Camino Santa Maria, San Antonio, TX 78228, USA",29.4523378,-98.5640981
 "Gonzaga University, Spokane, WA, USA","502 E Boone Ave, Spokane, WA 99202, USA",47.667189,-117.4023849
 "Campbell University, Buies Creek, NC, USA","143 Main St, Buies Creek, NC 27506, USA",35.4083372,-78.7394297
 "SUNY New Paltz, New Paltz NY, USA","1 Hawk Dr, New Paltz, NY 12561, USA",41.7390054,-74.0851655
